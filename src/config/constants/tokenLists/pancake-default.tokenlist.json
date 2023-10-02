@@ -1,0 +1,46 @@
+{
+  "name": "SECROX Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "http://ecroxswap.com/logo.png",
+  "keywords": ["secrox", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped ECROX",
+      "symbol": "WECROX",
+      "address": "0x4C89dC09A6170e0EC41ed1d2fE1D17D9BEeeb3Ca",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "http://ecroxswap.com/images/tokens/0x4C89dC09A6170e0EC41ed1d2fE1D17D9BEeeb3Ca.png"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x254321De2ba6fD4722d9e275e4b99e4191B93173",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "http://ecroxswap.com/images/tokens/0x254321De2ba6fD4722d9e275e4b99e4191B93173.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0x45C3dEd9650b98d53ec27DA474D292cdF7B5F738",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "http://ecroxswap.com/images/tokens/0x45C3dEd9650b98d53ec27DA474D292cdF7B5F738.png"
+    },
+    {
+      "name": "SECROX",
+      "symbol": "SECROX",
+      "address": "0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "http://ecroxswap.com/images/tokens/0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8.png"
+    }
+  ]
+}
