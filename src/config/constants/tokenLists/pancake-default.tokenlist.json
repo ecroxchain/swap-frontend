@@ -42,5 +42,13 @@
       "decimals": 18,
       "logoURI": "http://ecroxswap.com/images/tokens/0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8.png"
     }
+    {
+      "name": "Elite Coin",
+      "symbol": "ELITE",
+      "address": "0x7a64822bc0d058b4f5dc1f4045293505b3d0cb43",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/swap-frontend/82e578410d10087f5f42e7751f225e5e3f4d77b2/public/images/tokens/0x7a64822bc0d058b4f5dc1f4045293505b3d0cb43.png"
+    }
   ]
 }
