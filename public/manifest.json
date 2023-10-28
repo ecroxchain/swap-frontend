@@ -1,7 +1,7 @@
 {
   "short_name": "SECROX",
   "name": "SECROX",
-  "description": "Farm SECROX with Pancake LP Tokens",
+  "description": "Farm SECROX with ECROX LP Tokens",
   "homepage_url": "http://ecroxswap.com",
   "start_url": ".",
   "display": "standalone",
