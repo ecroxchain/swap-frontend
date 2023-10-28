@@ -88,25 +88,25 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
   //   ],
   // },
   // {
-  //   label: t('NFT'),
-  //   href: `${nftsBaseUrl}`,
-  //   icon: NftIcon,
-  //   fillIcon: NftFillIcon,
-  //   items: [
-  //     {
-  //       label: t('Overview'),
-  //       href: `${nftsBaseUrl}`,
-  //     },
-  //     {
-  //       label: t('Collections'),
-  //       href: `${nftsBaseUrl}/collections`,
-  //     },
-  //     {
-  //       label: t('Activity'),
-  //       href: `${nftsBaseUrl}/activity`,
-  //     },
-  //   ],
-  // },
+  label: t('NFT'),
+      href: `${nftsBaseUrl}`,
+      icon: NftIcon,
+      fillIcon: NftFillIcon,
+      items: [
+    {
+      label: t('Overview'),
+      href: `${nftsBaseUrl}`,
+    },
+    {
+      label: t('Collections'),
+      href: `${nftsBaseUrl}/collections`,
+    },
+    {
+      label: t('Activity'),
+      href: `${nftsBaseUrl}/activity`,
+     },
+   ],
+  },
   // {
   //   label: '',
   //   href: '/info',
