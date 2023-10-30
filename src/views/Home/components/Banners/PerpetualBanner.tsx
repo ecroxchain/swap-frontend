@@ -1,4 +1,4 @@
-import { ArrowForwardIcon, Button, Text, Link, useMatchBreakpointsContext } from '@secrox/uikit'
+import { ArrowForwardIcon, Button, Text, Link, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import Image from 'next/image'
 import { memo, useMemo } from 'react'

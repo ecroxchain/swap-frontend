@@ -1,6 +1,6 @@
 import { ReactNode } from 'react'
 import styled from 'styled-components'
-import { Flex, Skeleton, Text } from '@secrox/uikit'
+import { Flex, Skeleton, Text } from '@ecrox/uikit'
 import Balance from 'components/Balance'
 import { useTranslation } from 'contexts/Localization'
 import { FlexGap } from 'components/Layout/Flex'

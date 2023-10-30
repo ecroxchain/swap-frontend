@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { Contract } from '@ethersproject/contracts'
-import { SwapParameters, Trade } from '@danielvindax/ecroxswap-sdk'
+import { SwapParameters, Trade } from '@ecrox/ecroxswap-sdk'
 import { TranslateFunction, useTranslation } from 'contexts/Localization'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useMemo } from 'react'

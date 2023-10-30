@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { JSBI, Pair, Percent } from '@danielvindax/ecroxswap-sdk'
+import { JSBI, Pair, Percent } from '@ecrox/ecroxswap-sdk'
 import {
   Button,
   Text,
@@ -12,7 +12,7 @@ import {
   AddIcon,
   TooltipText,
   useTooltip,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import styled from 'styled-components'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'

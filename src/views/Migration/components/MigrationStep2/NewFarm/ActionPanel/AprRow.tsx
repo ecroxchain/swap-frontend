@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Text } from '@secrox/uikit'
+import { Flex, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import Apr, { AprProps } from 'views/Farms/components/FarmTable/Apr'
 

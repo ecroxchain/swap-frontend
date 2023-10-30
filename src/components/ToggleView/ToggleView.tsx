@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ListViewIcon, CardViewIcon, IconButton } from '@secrox/uikit'
+import { ListViewIcon, CardViewIcon, IconButton } from '@ecrox/uikit'
 import { ViewMode } from 'state/user/actions'
 
 interface ToggleViewProps {

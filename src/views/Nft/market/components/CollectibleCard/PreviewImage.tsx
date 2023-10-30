@@ -1,4 +1,4 @@
-import { BackgroundImage, BoxProps } from '@secrox/uikit'
+import { BackgroundImage, BoxProps } from '@ecrox/uikit'
 import PlaceholderImage from './PlaceholderImage'
 
 interface PreviewImageProps extends BoxProps {

@@ -1,5 +1,5 @@
-import { Token } from '@danielvindax/ecroxswap-sdk'
-import { Modal, InjectedModalProps } from '@secrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
+import { Modal, InjectedModalProps } from '@ecrox/uikit'
 import ImportToken from 'components/SearchModal/ImportToken'
 import { useTranslation } from 'contexts/Localization'
 

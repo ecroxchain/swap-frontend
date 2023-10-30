@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Flex } from '@secrox/uikit'
+import { Flex } from '@ecrox/uikit'
 import Page from 'components/Layout/Page'
 import { useGetCollection } from 'state/nftMarket/hooks'
 import { getNftsFromCollectionApi } from 'state/nftMarket/helpers'

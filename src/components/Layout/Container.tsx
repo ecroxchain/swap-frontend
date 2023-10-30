@@ -1,4 +1,4 @@
-import { Box, BoxProps } from '@secrox/uikit'
+import { Box, BoxProps } from '@ecrox/uikit'
 
 const Container: React.FC<BoxProps> = ({ children, ...props }) => (
   <Box px={['16px', '24px']} mx="auto" maxWidth="1200px" {...props}>

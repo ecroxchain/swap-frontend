@@ -1,4 +1,4 @@
-import { Percent, Price } from '@danielvindax/ecroxswap-sdk'
+import { Percent, Price } from '@ecrox/ecroxswap-sdk'
 
 const getRatePercentageDifference = (currentMarketRate: Price, price: Price) => {
   if (currentMarketRate && price) {

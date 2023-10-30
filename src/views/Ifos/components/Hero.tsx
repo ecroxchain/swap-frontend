@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Heading, Text, Button, Flex, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Box, Heading, Text, Button, Flex, useMatchBreakpointsContext } from '@ecrox/uikit'
 import Container from 'components/Layout/Container'
 import { useTranslation } from 'contexts/Localization'
 import { useRouter } from 'next/router'

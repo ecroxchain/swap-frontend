@@ -1,5 +1,5 @@
 import { useRef, useState, useEffect } from 'react'
-import { Modal, Flex, Button, Text, Skeleton, Box } from '@secrox/uikit'
+import { Modal, Flex, Button, Text, Skeleton, Box } from '@ecrox/uikit'
 import { StaticImageData } from 'next/dist/client/image'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'

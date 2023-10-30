@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { TokenInfo } from '@uniswap/token-lists'
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 import { isAddress } from '../../utils'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {

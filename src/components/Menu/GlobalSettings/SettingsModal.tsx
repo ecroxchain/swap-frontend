@@ -2,7 +2,7 @@ import { useState } from 'react'
 import styled from 'styled-components'
 import { Text, PancakeToggle, Toggle, Flex, Modal, InjectedModalProps, 
   // ThemeSwitcher
- } from '@secrox/uikit'
+ } from '@ecrox/uikit'
 import {
   useAudioModeManager,
   useExpertModeManager,

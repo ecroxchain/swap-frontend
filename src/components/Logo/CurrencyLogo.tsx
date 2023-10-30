@@ -1,5 +1,5 @@
-import { Currency, ETHER, Token } from '@danielvindax/ecroxswap-sdk'
-import { BinanceIcon } from '@secrox/uikit'
+import { Currency, ETHER, Token } from '@ecrox/ecroxswap-sdk'
+import { BinanceIcon } from '@ecrox/uikit'
 import { useMemo } from 'react'
 import styled from 'styled-components'
 import { WrappedTokenInfo } from 'state/types'

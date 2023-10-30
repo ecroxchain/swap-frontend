@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card, Radio } from '@secrox/uikit'
+import { Card, Radio } from '@ecrox/uikit'
 
 interface SelectionCardProps {
   name: string

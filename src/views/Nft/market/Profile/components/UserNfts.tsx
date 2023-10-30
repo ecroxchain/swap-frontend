@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Grid, useModal, Text, Flex } from '@secrox/uikit'
+import { Grid, useModal, Text, Flex } from '@ecrox/uikit'
 import { NftLocation, NftToken } from 'state/nftMarket/types'
 import { useTranslation } from 'contexts/Localization'
 import { CollectibleActionCard } from '../../components/CollectibleCard'

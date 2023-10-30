@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, memo } from 'react'
 import { useCountUp } from 'react-countup'
-import { Skeleton, TooltipText } from '@secrox/uikit'
+import { Skeleton, TooltipText } from '@ecrox/uikit'
 import { formatBigNumberToFixed } from 'utils/formatBalance'
 import usePollOraclePrice from '../../hooks/usePollOraclePrice'
 

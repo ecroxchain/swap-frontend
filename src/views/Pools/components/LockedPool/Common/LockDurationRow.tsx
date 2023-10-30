@@ -1,4 +1,4 @@
-import { Flex, Text } from '@secrox/uikit'
+import { Flex, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const LockDurationRow = ({ weekDuration }) => {

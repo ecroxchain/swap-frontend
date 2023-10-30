@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Skeleton, PocketWatchIcon, Text } from '@secrox/uikit'
+import { Flex, Skeleton, PocketWatchIcon, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import getTimePeriods from 'utils/getTimePeriods'
 import { CompetitionSteps, LIVE } from 'config/constants/trading-competition/phases'

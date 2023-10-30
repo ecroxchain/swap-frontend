@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { IconButton, ArrowForwardIcon, ArrowBackIcon, ArrowLastIcon, Flex, Heading, Input } from '@secrox/uikit'
+import { IconButton, ArrowForwardIcon, ArrowBackIcon, ArrowLastIcon, Flex, Heading, Input } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const StyledInput = styled(Input)`

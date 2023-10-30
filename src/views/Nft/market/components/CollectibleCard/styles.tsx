@@ -11,8 +11,8 @@ import {
   Text,
   WalletFilledIcon,
   Skeleton,
-} from '@secrox/uikit'
-import { Price } from '@danielvindax/ecroxswap-sdk'
+} from '@ecrox/uikit'
+import { Price } from '@ecrox/ecroxswap-sdk'
 import { useTranslation } from 'contexts/Localization'
 import { multiplyPriceByAmount } from 'utils/prices'
 import styled from 'styled-components'

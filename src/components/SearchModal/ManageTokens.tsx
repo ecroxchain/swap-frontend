@@ -1,6 +1,6 @@
 import { useRef, RefObject, useCallback, useState, useMemo } from 'react'
-import { Token } from '@danielvindax/ecroxswap-sdk'
-import { Text, Button, CloseIcon, IconButton, LinkExternal, Input, Link } from '@secrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
+import { Text, Button, CloseIcon, IconButton, LinkExternal, Input, Link } from '@ecrox/uikit'
 import styled from 'styled-components'
 import Row, { RowBetween, RowFixed } from 'components/Layout/Row'
 import { useToken } from 'hooks/Tokens'

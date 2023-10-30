@@ -1,4 +1,4 @@
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 import { SerializedToken } from 'config/constants/types'
 import { WrappedTokenInfo } from 'state/types'
 

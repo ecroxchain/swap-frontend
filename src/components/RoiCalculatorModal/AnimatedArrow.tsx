@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Flex, ArrowDownIcon, ArrowUpIcon } from '@secrox/uikit'
+import { Flex, ArrowDownIcon, ArrowUpIcon } from '@ecrox/uikit'
 import styled, { keyframes } from 'styled-components'
 import { CalculatorMode, RoiCalculatorReducerState } from './useRoiCalculatorReducer'
 

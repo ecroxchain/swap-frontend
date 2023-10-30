@@ -1,4 +1,4 @@
-import { Flex, Skeleton, Text } from '@secrox/uikit'
+import { Flex, Skeleton, Text } from '@ecrox/uikit'
 import { FC } from 'react'
 import styled from 'styled-components'
 import { formatAmount, formatAmountNotation } from 'utils/formatInfoNumbers'

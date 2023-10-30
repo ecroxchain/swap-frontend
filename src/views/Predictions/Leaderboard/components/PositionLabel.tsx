@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ArrowDownIcon, ArrowUpIcon } from '@secrox/uikit'
+import { ArrowDownIcon, ArrowUpIcon } from '@ecrox/uikit'
 import { BetPosition } from 'state/types'
 import { useTranslation } from 'contexts/Localization'
 

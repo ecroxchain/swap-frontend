@@ -1,6 +1,6 @@
 import { useRef, useState, useEffect, useMemo } from 'react'
 import styled from 'styled-components'
-import { Text, Input, Flex, Skeleton, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Text, Input, Flex, Skeleton, useMatchBreakpointsContext } from '@ecrox/uikit'
 import useFetchSearchResults from 'state/info/queries/search'
 import { CurrencyLogo, DoubleCurrencyLogo } from 'views/Info/components/CurrencyLogo'
 import { formatAmount } from 'utils/formatInfoNumbers'

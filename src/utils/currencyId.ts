@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@danielvindax/ecroxswap-sdk'
+import { Currency, ETHER, Token } from '@ecrox/ecroxswap-sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ECROX'

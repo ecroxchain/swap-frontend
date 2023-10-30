@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Box, Flex, Button } from '@secrox/uikit'
+import { Text, Box, Flex, Button } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { LotteryStatus } from 'config/constants/types'
 import { useGetUserLotteriesGraphData } from 'state/lottery/hooks'

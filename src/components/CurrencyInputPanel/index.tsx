@@ -1,5 +1,5 @@
-import { Currency, Pair, Token } from '@danielvindax/ecroxswap-sdk'
-import { Button, ChevronDownIcon, Text, useModal, Flex, Box, MetamaskIcon } from '@secrox/uikit'
+import { Currency, Pair, Token } from '@ecrox/ecroxswap-sdk'
+import { Button, ChevronDownIcon, Text, useModal, Flex, Box, MetamaskIcon } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { registerToken } from 'utils/wallet'
 import { isAddress } from 'utils'

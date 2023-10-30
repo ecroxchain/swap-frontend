@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card, CardBody, Heading } from '@secrox/uikit'
+import { Card, CardBody, Heading } from '@ecrox/uikit'
 
 interface NotificationProps {
   title: string

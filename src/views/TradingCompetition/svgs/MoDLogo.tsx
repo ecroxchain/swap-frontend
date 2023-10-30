@@ -1,4 +1,4 @@
-import { Svg, SvgProps } from '@secrox/uikit'
+import { Svg, SvgProps } from '@ecrox/uikit'
 
 const MoDLogo: React.FC<SvgProps> = (props) => (
   <Svg width={322} height={64} viewBox="0 0 322 64" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>

@@ -1,4 +1,4 @@
-import { Flex, Heading } from '@secrox/uikit'
+import { Flex, Heading } from '@ecrox/uikit'
 import { BigNumber } from 'bignumber.js'
 import Balance from 'components/Balance'
 import { useMemo } from 'react'

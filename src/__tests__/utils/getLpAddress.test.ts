@@ -1,4 +1,4 @@
-import { Token, ChainId } from '@danielvindax/ecroxswap-sdk'
+import { Token, ChainId } from '@ecrox/ecroxswap-sdk'
 import getLpAddress from 'utils/getLpAddress'
 
 const CAKE_AS_STRING = '0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8'

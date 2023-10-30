@@ -1,6 +1,6 @@
 import { CSSProperties, MutableRefObject, useCallback, useMemo } from 'react'
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@danielvindax/ecroxswap-sdk'
-import { Text } from '@secrox/uikit'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@ecrox/ecroxswap-sdk'
+import { Text } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { FixedSizeList } from 'react-window'
 import { wrappedCurrency } from 'utils/wrappedCurrency'

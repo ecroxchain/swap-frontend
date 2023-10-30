@@ -1,7 +1,7 @@
 /* eslint-disable no-restricted-syntax */
 import { KeyboardEvent, RefObject, useCallback, useMemo, useRef, useState, useEffect } from 'react'
-import { Currency, ETHER, Token } from '@danielvindax/ecroxswap-sdk'
-import { Text, Input, Box } from '@secrox/uikit'
+import { Currency, ETHER, Token } from '@ecrox/ecroxswap-sdk'
+import { Text, Input, Box } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { FixedSizeList } from 'react-window'
 import { useAudioModeManager } from 'state/user/hooks'

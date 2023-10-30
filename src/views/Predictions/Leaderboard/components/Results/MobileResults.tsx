@@ -1,4 +1,4 @@
-import { Box } from '@secrox/uikit'
+import { Box } from '@ecrox/uikit'
 import { PredictionUser } from 'state/types'
 import MobileRow from './MobileRow'
 

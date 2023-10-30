@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { menuStatus } from '@secrox/uikit'
+import { menuStatus } from '@ecrox/uikit'
 import { useTranslation } from '../../../contexts/Localization'
 import { useMenuItemsStatus } from './useMenuItemsStatus'
 import config, { ConfigMenuItemsType } from '../config/config'

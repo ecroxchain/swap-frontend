@@ -1,4 +1,4 @@
-import { CurrencyAmount, Price } from '@danielvindax/ecroxswap-sdk'
+import { CurrencyAmount, Price } from '@ecrox/ecroxswap-sdk'
 
 /**
  * Given certain amount if input and output tokens

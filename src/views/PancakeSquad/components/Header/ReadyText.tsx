@@ -1,4 +1,4 @@
-import { CheckmarkIcon, Flex, FlexProps, Text } from '@secrox/uikit'
+import { CheckmarkIcon, Flex, FlexProps, Text } from '@ecrox/uikit'
 
 type ReadyTextProps = {
   text: string

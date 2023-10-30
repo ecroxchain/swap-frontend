@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Flex, Skeleton, Text } from '@secrox/uikit'
+import { Flex, Skeleton, Text } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import Balance from 'components/Balance'

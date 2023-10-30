@@ -1,4 +1,4 @@
-import { Flex } from '@secrox/uikit'
+import { Flex } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 export const StyledEventStepsSectionContainer = styled(Flex)<{ $isDark: boolean }>`

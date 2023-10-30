@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { Token, Currency } from '@danielvindax/ecroxswap-sdk'
-import { Button, Text, ErrorIcon, Flex, Message, Checkbox, Link, Tag, Grid } from '@secrox/uikit'
+import { Token, Currency } from '@ecrox/ecroxswap-sdk'
+import { Button, Text, ErrorIcon, Flex, Message, Checkbox, Link, Tag, Grid } from '@ecrox/uikit'
 import { AutoColumn } from 'components/Layout/Column'
 import { useAddUserToken } from 'state/user/hooks'
 import { getBscScanLink } from 'utils'

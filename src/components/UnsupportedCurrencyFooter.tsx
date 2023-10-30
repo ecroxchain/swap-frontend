@@ -1,5 +1,5 @@
-import { Currency, Token } from '@danielvindax/ecroxswap-sdk'
-import { Button, Text, Modal, useModal, InjectedModalProps, Link } from '@secrox/uikit'
+import { Currency, Token } from '@ecrox/ecroxswap-sdk'
+import { Button, Text, Modal, useModal, InjectedModalProps, Link } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
 import { AutoRow } from 'components/Layout/Row'

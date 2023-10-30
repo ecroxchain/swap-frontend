@@ -1,5 +1,5 @@
 import { ChangeEvent, useState, useEffect } from 'react'
-import { Box, BoxProps, Text, Input } from '@secrox/uikit'
+import { Box, BoxProps, Text, Input } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { isAddress } from 'utils'
 import { useTranslation } from 'contexts/Localization'

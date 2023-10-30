@@ -1,4 +1,4 @@
-import { TagProps } from '@secrox/uikit'
+import { TagProps } from '@ecrox/uikit'
 import { ClosedTag, CommunityTag, CoreTag, SoonTag, VoteNowTag } from 'components/Tags'
 import { ProposalState } from 'state/types'
 

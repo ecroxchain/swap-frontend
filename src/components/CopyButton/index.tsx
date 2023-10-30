@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { CopyIcon, SvgProps } from '@secrox/uikit'
+import { CopyIcon, SvgProps } from '@ecrox/uikit'
 import { copyText } from 'utils/copyText'
 import styled from 'styled-components'
 

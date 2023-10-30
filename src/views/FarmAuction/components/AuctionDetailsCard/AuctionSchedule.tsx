@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Flex, Box } from '@secrox/uikit'
+import { Text, Flex, Box } from '@ecrox/uikit'
 import { Auction, AuctionStatus } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'
 

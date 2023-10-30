@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Skeleton, Table, Td } from '@secrox/uikit'
+import { Skeleton, Table, Td } from '@ecrox/uikit'
 
 const LoadingTable = () => (
   <Table>

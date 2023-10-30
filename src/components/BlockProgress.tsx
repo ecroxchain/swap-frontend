@@ -1,4 +1,4 @@
-import { Progress, ProgressProps } from '@secrox/uikit'
+import { Progress, ProgressProps } from '@ecrox/uikit'
 import { useCurrentBlock } from 'state/block/hooks'
 
 interface BlockProgressProps extends ProgressProps {

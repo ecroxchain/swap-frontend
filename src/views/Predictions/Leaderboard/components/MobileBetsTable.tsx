@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { Token } from '@danielvindax/ecroxswap-sdk'
-import { Flex, Text, ChevronUpIcon, ChevronDownIcon } from '@secrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
+import { Flex, Text, ChevronUpIcon, ChevronDownIcon } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import PreviousBetsTable from './PreviousBetsTable'
 

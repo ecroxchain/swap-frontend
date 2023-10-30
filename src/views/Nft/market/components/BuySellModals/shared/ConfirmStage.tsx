@@ -1,4 +1,4 @@
-import { Flex, Text, Button, Spinner } from '@secrox/uikit'
+import { Flex, Text, Button, Spinner } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface ConfirmStageProps {

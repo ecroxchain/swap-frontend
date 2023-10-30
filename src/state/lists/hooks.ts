@@ -1,4 +1,4 @@
-import { ChainId } from '@danielvindax/ecroxswap-sdk'
+import { ChainId } from '@ecrox/ecroxswap-sdk'
 import { TokenList } from '@uniswap/token-lists'
 import { useMemo } from 'react'
 import uniqBy from 'lodash/uniqBy'

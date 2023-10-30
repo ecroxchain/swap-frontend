@@ -1,4 +1,4 @@
-import { CardHeader, Flex, Heading, Text } from '@secrox/uikit'
+import { CardHeader, Flex, Heading, Text } from '@ecrox/uikit'
 import { ReactNode } from 'react'
 import styled from 'styled-components'
 

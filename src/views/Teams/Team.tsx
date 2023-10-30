@@ -1,4 +1,4 @@
-import { ChevronLeftIcon, Flex, Text } from '@secrox/uikit'
+import { ChevronLeftIcon, Flex, Text } from '@ecrox/uikit'
 import Page from 'components/Layout/Page'
 import { useTranslation } from 'contexts/Localization'
 import { useRouter } from 'next/router'

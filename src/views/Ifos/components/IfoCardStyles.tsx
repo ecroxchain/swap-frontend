@@ -1,4 +1,4 @@
-import { Card, Link } from '@secrox/uikit'
+import { Card, Link } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 export const StyledCard = styled(Card)`

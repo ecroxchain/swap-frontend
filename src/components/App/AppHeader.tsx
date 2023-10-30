@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Flex, Heading, IconButton, ArrowBackIcon, NotificationDot } from '@secrox/uikit'
+import { Text, Flex, Heading, IconButton, ArrowBackIcon, NotificationDot } from '@ecrox/uikit'
 import { useExpertModeManager } from 'state/user/hooks'
 import GlobalSettings from 'components/Menu/GlobalSettings'
 import Link from 'next/link'

@@ -1,5 +1,5 @@
 import { ReactElement } from 'react'
-import { Flex, Text } from '@secrox/uikit'
+import { Flex, Text } from '@ecrox/uikit'
 import styled, { DefaultTheme } from 'styled-components'
 
 type Status = 'expired' | 'live' | 'next' | 'soon' | 'canceled' | 'calculating'

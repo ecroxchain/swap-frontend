@@ -1,4 +1,4 @@
-import { BalanceInput, Button, Flex, Image, Slider, Text } from '@secrox/uikit'
+import { BalanceInput, Button, Flex, Image, Slider, Text } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from 'contexts/Localization'
 import { Dispatch, useMemo, memo, SetStateAction, useCallback } from 'react'

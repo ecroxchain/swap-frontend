@@ -1,4 +1,4 @@
-import { Flex, Text, Heading } from '@secrox/uikit'
+import { Flex, Text, Heading } from '@ecrox/uikit'
 import Image from 'next/image'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'

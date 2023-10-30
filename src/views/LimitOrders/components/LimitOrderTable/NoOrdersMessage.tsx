@@ -1,4 +1,4 @@
-import { BunnyPlaceholderIcon, Flex, Text } from '@secrox/uikit'
+import { BunnyPlaceholderIcon, Flex, Text } from '@ecrox/uikit'
 import React from 'react'
 import { useTranslation } from 'contexts/Localization'
 import { ORDER_CATEGORY } from '../../types'

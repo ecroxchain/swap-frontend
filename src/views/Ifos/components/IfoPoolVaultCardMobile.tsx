@@ -1,4 +1,4 @@
-import { Box, Card, CardBody, CardHeader, ExpandableButton, Flex, Text, Message, Button } from '@secrox/uikit'
+import { Box, Card, CardBody, CardHeader, ExpandableButton, Flex, Text, Message, Button } from '@ecrox/uikit'
 import { ActionContainer } from 'views/Pools/components/PoolsTable/ActionPanel/styles'
 import { useState } from 'react'
 import styled from 'styled-components'

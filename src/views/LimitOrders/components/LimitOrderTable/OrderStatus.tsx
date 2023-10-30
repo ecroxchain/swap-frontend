@@ -1,4 +1,4 @@
-import { Tag, Text, TagVariant } from '@secrox/uikit'
+import { Tag, Text, TagVariant } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import React from 'react'
 import { FormattedOrderData } from 'views/LimitOrders/hooks/useFormattedOrderData'

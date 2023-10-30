@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { LogoIcon, CheckmarkCircleIcon, CircleOutlineIcon, Flex, Text } from '@secrox/uikit'
+import { LogoIcon, CheckmarkCircleIcon, CircleOutlineIcon, Flex, Text } from '@ecrox/uikit'
 import { CountdownProps } from '../../types'
 
 const sharedFlexStyles = `

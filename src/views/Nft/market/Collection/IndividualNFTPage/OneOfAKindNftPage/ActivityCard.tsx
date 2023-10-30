@@ -8,7 +8,7 @@ import {
   ArrowBackIcon,
   ArrowForwardIcon,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import { Activity, NftToken } from 'state/nftMarket/types'

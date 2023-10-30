@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex } from '@secrox/uikit'
+import { Flex } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import FanTokenAllBunnies from './pngs/fan-token-all-bunnies.png'
 import MoboxAllBunnies from './pngs/mobox-all-bunnies.png'

@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@secrox/uikit'
+import { Text, TextProps } from '@ecrox/uikit'
 
 export interface PercentProps extends TextProps {
   value: number | undefined

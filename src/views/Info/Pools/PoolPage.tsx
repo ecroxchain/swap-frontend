@@ -14,7 +14,7 @@ import {
   Text,
   useTooltip,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import Page from 'components/Layout/Page'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'

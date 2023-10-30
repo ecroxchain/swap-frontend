@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Text, Flex, TooltipText, useTooltip } from '@secrox/uikit'
+import { Text, Flex, TooltipText, useTooltip } from '@ecrox/uikit'
 import { format } from 'date-fns'
 
 interface PropsType {

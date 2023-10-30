@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { AutoRenewIcon, Box, Button, Flex, InjectedModalProps, Modal, Text, TwitterIcon } from '@secrox/uikit'
+import { AutoRenewIcon, Box, Button, Flex, InjectedModalProps, Modal, Text, TwitterIcon } from '@ecrox/uikit'
 import styled from 'styled-components'
 import confetti from 'canvas-confetti'
 import { useTranslation } from 'contexts/Localization'

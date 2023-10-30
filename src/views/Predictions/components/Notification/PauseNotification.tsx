@@ -1,4 +1,4 @@
-import { Box, Button, Text } from '@secrox/uikit'
+import { Box, Button, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { setHistoryPaneState } from 'state/predictions'

@@ -1,4 +1,4 @@
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 type FAQsType = {

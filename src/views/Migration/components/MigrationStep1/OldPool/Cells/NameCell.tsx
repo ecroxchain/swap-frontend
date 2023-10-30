@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import BigNumber from 'bignumber.js'
-import { Text, TokenPairImage as UITokenPairImage, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Text, TokenPairImage as UITokenPairImage, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { DeserializedPool } from 'state/types'
 import { BIG_ZERO } from 'utils/bigNumber'

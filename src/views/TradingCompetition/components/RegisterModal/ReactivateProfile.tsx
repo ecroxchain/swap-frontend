@@ -1,4 +1,4 @@
-import { Heading, Button, Text } from '@secrox/uikit'
+import { Heading, Button, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { CompetitionProps } from 'views/TradingCompetition/types'
 import { nftsBaseUrl } from 'views/Nft/market/constants'

@@ -1,4 +1,4 @@
-import { Flex, Text, TooltipText, useTooltip } from '@secrox/uikit'
+import { Flex, Text, TooltipText, useTooltip } from '@ecrox/uikit'
 
 import { useVaultApy } from 'hooks/useVaultApy'
 import { BalanceWithLoading } from 'components/Balance'

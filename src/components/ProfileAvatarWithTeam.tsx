@@ -1,4 +1,4 @@
-import { NoProfileAvatarIcon } from '@secrox/uikit'
+import { NoProfileAvatarIcon } from '@ecrox/uikit'
 import { Profile } from 'state/types'
 import styled from 'styled-components'
 

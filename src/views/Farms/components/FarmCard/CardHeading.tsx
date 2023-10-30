@@ -1,6 +1,6 @@
 import styled from 'styled-components'
-import { Tag, Flex, Heading, Skeleton } from '@secrox/uikit'
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Tag, Flex, Heading, Skeleton } from '@ecrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
 import { FarmAuctionTag, CoreTag } from 'components/Tags'
 import { TokenPairImage } from 'components/TokenImage'
 

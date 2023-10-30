@@ -1,4 +1,4 @@
-import { Svg } from '@secrox/uikit'
+import { Svg } from '@ecrox/uikit'
 
 // NOTE: Temporary save icon here. Will move to uikit when the feature is done
 

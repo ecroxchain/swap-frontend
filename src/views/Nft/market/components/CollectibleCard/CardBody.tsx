@@ -1,4 +1,4 @@
-import { Box, CardBody, Flex, Text } from '@secrox/uikit'
+import { Box, CardBody, Flex, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useBNBBusdPrice } from 'hooks/useBUSDPrice'
 import PreviewImage from './PreviewImage'

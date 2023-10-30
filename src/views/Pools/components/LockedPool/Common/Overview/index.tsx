@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Box, Text, Flex, MessageText, Message } from '@secrox/uikit'
+import { Box, Text, Flex, MessageText, Message } from '@ecrox/uikit'
 
 import { LightGreyCard } from 'components/Card'
 import { addSeconds } from 'date-fns'

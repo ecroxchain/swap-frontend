@@ -1,4 +1,4 @@
-import { Spinner, Text } from '@secrox/uikit'
+import { Spinner, Text } from '@ecrox/uikit'
 
 import styled, { keyframes } from 'styled-components'
 

@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 import { SVG, WonSlice, LostSlice, Wrapper, Info } from './PnlChartStyles'
 
 /**

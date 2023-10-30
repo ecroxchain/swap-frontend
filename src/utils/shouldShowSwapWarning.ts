@@ -1,4 +1,4 @@
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 import SwapWarningTokens from 'config/constants/swapWarningTokens'
 
 const swapWarningTokens = Object.values(SwapWarningTokens)

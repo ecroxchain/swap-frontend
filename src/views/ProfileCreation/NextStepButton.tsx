@@ -1,4 +1,4 @@
-import { ArrowForwardIcon, Button, ButtonProps } from '@secrox/uikit'
+import { ArrowForwardIcon, Button, ButtonProps } from '@ecrox/uikit'
 
 const NextStepButton: React.FC<ButtonProps> = (props) => {
   return <Button endIcon={<ArrowForwardIcon color="currentColor" />} {...props} />

@@ -1,4 +1,4 @@
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 import getTimePeriods from 'utils/getTimePeriods'
 import { useTranslation } from 'contexts/Localization'
 

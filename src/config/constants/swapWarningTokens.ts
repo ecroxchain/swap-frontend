@@ -1,4 +1,4 @@
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 // import tokens from 'config/constants/tokens'
 // import rugPullTokens from 'config/constants/rugPullTokens'
 

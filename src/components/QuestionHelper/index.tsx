@@ -1,4 +1,4 @@
-import { HelpIcon, useTooltip, Box, BoxProps, Placement } from '@secrox/uikit'
+import { HelpIcon, useTooltip, Box, BoxProps, Placement } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 interface Props extends BoxProps {

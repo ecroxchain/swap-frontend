@@ -1,4 +1,4 @@
-import { InjectedModalProps, Modal } from '@secrox/uikit'
+import { InjectedModalProps, Modal } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { ContextApi } from 'contexts/Localization/types'
 import useEditProfile, { Views } from './reducer'

@@ -1,4 +1,4 @@
-import { SubMenuItems } from '@secrox/uikit'
+import { SubMenuItems } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 const BaseSubMenu = styled(SubMenuItems)`

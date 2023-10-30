@@ -1,4 +1,4 @@
-import { Box, Skeleton } from '@secrox/uikit'
+import { Box, Skeleton } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { LeaderboardDataItem } from '../../../types'
 import GridItem from './GridItem'

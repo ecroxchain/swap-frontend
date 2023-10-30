@@ -8,7 +8,8 @@ const createJestConfig = nextJest({ dir: './' })
 const customJestConfig = {
   testPathIgnorePatterns: ['<rootDir>/cypress/', '<rootDir>/src/config/__tests__/', '<rootDir>/packages'],
   moduleNameMapper: {
-    '^@secrox/uikit': '<rootDir>/packages/uikit/src',
+    '^@ecrox/uikit': '<rootDir>/packages/uikit/src',
+    '^@ecrox/ecroxswap-sdk': '<rootDir>/packages/swap-sdk/dist',
   },
   moduleDirectories: ['node_modules', 'src'],
   testTimeout: 20000,

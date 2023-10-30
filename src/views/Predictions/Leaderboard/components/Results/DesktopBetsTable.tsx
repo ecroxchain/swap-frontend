@@ -1,5 +1,5 @@
-import { Token } from '@danielvindax/ecroxswap-sdk'
-import { Box, Card, Text } from '@secrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
+import { Box, Card, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import PreviousBetsTable from '../PreviousBetsTable'
 

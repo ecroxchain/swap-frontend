@@ -1,4 +1,4 @@
-import { ChainId } from '@danielvindax/ecroxswap-sdk'
+import { ChainId } from '@ecrox/ecroxswap-sdk'
 import getLpAddress from 'utils/getLpAddress'
 import { CHAIN_ID } from './networks'
 import tokens from './tokens'

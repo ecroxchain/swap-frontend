@@ -1,4 +1,4 @@
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 import { Auction, AuctionStatus } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'
 

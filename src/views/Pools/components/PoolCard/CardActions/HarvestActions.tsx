@@ -1,6 +1,6 @@
-import { Flex, Text, Button, Heading, useModal, Skeleton } from '@secrox/uikit'
+import { Flex, Text, Button, Heading, useModal, Skeleton } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 import { useTranslation } from 'contexts/Localization'
 import { getFullDisplayBalance, getBalanceNumber, formatNumber } from 'utils/formatBalance'
 import Balance from 'components/Balance'

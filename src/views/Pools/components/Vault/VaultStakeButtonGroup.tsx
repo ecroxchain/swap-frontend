@@ -1,4 +1,4 @@
-import { Box, Button, TooltipText, useTooltip } from '@secrox/uikit'
+import { Box, Button, TooltipText, useTooltip } from '@ecrox/uikit'
 import { FlexGap } from 'components/Layout/Flex'
 import { useTranslation } from 'contexts/Localization'
 

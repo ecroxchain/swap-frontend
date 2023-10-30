@@ -1,4 +1,4 @@
-import { Button, ChevronRightIcon, Flex, Grid, Heading, Text } from '@secrox/uikit'
+import { Button, ChevronRightIcon, Flex, Grid, Heading, Text } from '@ecrox/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { nftsBaseUrl } from 'views/Nft/market/constants'
 import { Collection } from 'state/nftMarket/types'

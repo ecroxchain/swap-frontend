@@ -13,7 +13,7 @@ import {
   LinkExternal,
   Text,
   useModal,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import times from 'lodash/times'
 import isEmpty from 'lodash/isEmpty'

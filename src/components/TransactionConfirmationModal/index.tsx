@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import { ChainId, Currency, Token } from '@danielvindax/ecroxswap-sdk'
+import { ChainId, Currency, Token } from '@ecrox/ecroxswap-sdk'
 import styled from 'styled-components'
 import {
   Button,
@@ -13,7 +13,7 @@ import {
   Spinner,
   Modal,
   InjectedModalProps,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { registerToken } from 'utils/wallet'
 import { useTranslation } from 'contexts/Localization'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

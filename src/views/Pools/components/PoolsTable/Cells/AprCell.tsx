@@ -1,5 +1,5 @@
 import { BIG_ZERO } from 'utils/bigNumber'
-import { Text, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Text, useMatchBreakpointsContext } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
 import { DeserializedPool } from 'state/types'
 import { useTranslation } from 'contexts/Localization'

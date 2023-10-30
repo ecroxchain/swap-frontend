@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, HelpIcon, Text, useTooltip } from '@secrox/uikit'
+import { Flex, HelpIcon, Text, useTooltip } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import BigNumber from 'bignumber.js'
 

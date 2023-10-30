@@ -1,4 +1,4 @@
-import { Button, useModal, WaitIcon, ButtonProps } from '@secrox/uikit'
+import { Button, useModal, WaitIcon, ButtonProps } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useLottery } from 'state/lottery/hooks'
 import { LotteryStatus } from 'config/constants/types'

@@ -1,5 +1,5 @@
 import styled, { css, DefaultTheme } from 'styled-components'
-import { Box } from '@secrox/uikit'
+import { Box } from '@ecrox/uikit'
 import { ClipFill } from '../types'
 
 interface CurveProps {

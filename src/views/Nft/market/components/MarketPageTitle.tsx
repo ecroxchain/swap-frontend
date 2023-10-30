@@ -1,5 +1,5 @@
 import { ReactNode } from 'react'
-import { Box, Grid, GridProps, Heading } from '@secrox/uikit'
+import { Box, Grid, GridProps, Heading } from '@ecrox/uikit'
 
 interface MarketPageTitleProps extends GridProps {
   title: string

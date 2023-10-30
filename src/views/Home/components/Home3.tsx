@@ -1,4 +1,4 @@
-import { Flex, Text, Heading, Link, Button } from '@secrox/uikit'
+import { Flex, Text, Heading, Link, Button } from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { useTranslation } from 'contexts/Localization'
 import Image from 'next/image'

@@ -15,7 +15,7 @@ import {
   Slider,
   Box,
   AutoRenewIcon,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { BigNumber, FixedNumber } from '@ethersproject/bignumber'
 import { Zero } from '@ethersproject/constants'
 import { parseUnits } from '@ethersproject/units'

@@ -1,4 +1,4 @@
-import { Flex, FlexProps } from '@secrox/uikit'
+import { Flex, FlexProps } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 const FlexLayout = styled.div`

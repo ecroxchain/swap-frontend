@@ -1,4 +1,4 @@
-import { Image } from '@secrox/uikit'
+import { Image } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 const DesktopImage = styled(Image)`

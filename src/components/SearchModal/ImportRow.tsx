@@ -1,6 +1,6 @@
 import { CSSProperties } from 'react'
-import { Token } from '@danielvindax/ecroxswap-sdk'
-import { Button, Text, CheckmarkCircleIcon, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
+import { Button, Text, CheckmarkCircleIcon, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { AutoRow, RowFixed } from 'components/Layout/Row'
 import { AutoColumn } from 'components/Layout/Column'
 import CurrencyLogo from 'components/Logo/CurrencyLogo'

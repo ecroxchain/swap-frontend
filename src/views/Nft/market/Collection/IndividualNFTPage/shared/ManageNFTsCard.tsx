@@ -11,7 +11,7 @@ import {
   BinanceIcon,
   Skeleton,
   useModal,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { useProfile } from 'state/profile/hooks'
 import { NftLocation, NftToken, Collection } from 'state/nftMarket/types'

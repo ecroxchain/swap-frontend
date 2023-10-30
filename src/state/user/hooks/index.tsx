@@ -1,4 +1,4 @@
-import { ChainId, Pair, Token } from '@danielvindax/ecroxswap-sdk'
+import { ChainId, Pair, Token } from '@ecrox/ecroxswap-sdk'
 import { differenceInDays } from 'date-fns'
 import flatMap from 'lodash/flatMap'
 import farms from 'config/constants/farms'

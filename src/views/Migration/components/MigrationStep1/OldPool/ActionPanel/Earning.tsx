@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, Flex, Heading, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Text, Flex, Heading, useMatchBreakpointsContext } from '@ecrox/uikit'
 import styled from 'styled-components'
 import BigNumber from 'bignumber.js'
 import { getBalanceNumber } from 'utils/formatBalance'

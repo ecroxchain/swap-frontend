@@ -1,4 +1,4 @@
-import { JSBI, Token, TokenAmount } from '@danielvindax/ecroxswap-sdk'
+import { JSBI, Token, TokenAmount } from '@ecrox/ecroxswap-sdk'
 import getPriceForOneToken from './getPriceForOneToken'
 
 const SECROX = new Token(988207, '0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8', 18, 'SECROX', 'SECROX Token')

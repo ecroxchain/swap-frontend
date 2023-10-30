@@ -1,4 +1,4 @@
-import { Card, Heading } from '@secrox/uikit'
+import { Card, Heading } from '@ecrox/uikit'
 import Page from 'components/Layout/Page'
 import PageHeader from 'components/PageHeader'
 import { useTranslation } from 'contexts/Localization'

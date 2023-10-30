@@ -1,4 +1,4 @@
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 import { toDate, format } from 'date-fns'
 import { useTranslation } from 'contexts/Localization'
 import { ProposalState } from 'state/types'

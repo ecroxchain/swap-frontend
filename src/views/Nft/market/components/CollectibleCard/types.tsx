@@ -1,4 +1,4 @@
-import { CardProps } from '@secrox/uikit'
+import { CardProps } from '@ecrox/uikit'
 import { NftLocation, NftToken } from 'state/nftMarket/types'
 
 export interface CollectibleCardProps extends CardProps {

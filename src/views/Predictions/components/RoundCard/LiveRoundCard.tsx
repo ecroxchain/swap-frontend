@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Card, CardBody, Flex, PlayCircleOutlineIcon, Text, useTooltip } from '@secrox/uikit'
+import { Card, CardBody, Flex, PlayCircleOutlineIcon, Text, useTooltip } from '@ecrox/uikit'
 import { getNow } from 'utils/getNow'
 import { useTranslation } from 'contexts/Localization'
 import { NodeRound, NodeLedger, BetPosition } from 'state/types'

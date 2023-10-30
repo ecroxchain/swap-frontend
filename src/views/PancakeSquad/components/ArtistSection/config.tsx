@@ -1,4 +1,4 @@
-import { InstagramIcon, TwitterIcon } from '@secrox/uikit'
+import { InstagramIcon, TwitterIcon } from '@ecrox/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 type ArtistConfigType = {

@@ -1,7 +1,7 @@
 /* eslint-disable no-param-reassign */
 import { arrayify } from '@ethersproject/bytes'
 import { parseBytes32String } from '@ethersproject/strings'
-import { Currency, currencyEquals, ETHER, Token } from '@danielvindax/ecroxswap-sdk'
+import { Currency, currencyEquals, ETHER, Token } from '@ecrox/ecroxswap-sdk'
 import { createSelector } from '@reduxjs/toolkit'
 import { GELATO_NATIVE } from 'config/constants'
 import { CHAIN_ID } from 'config/constants/networks'

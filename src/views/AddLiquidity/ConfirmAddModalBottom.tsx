@@ -1,5 +1,5 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@danielvindax/ecroxswap-sdk'
-import { Button, Text } from '@secrox/uikit'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@ecrox/ecroxswap-sdk'
+import { Button, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { RowBetween, RowFixed } from '../../components/Layout/Row'
 import { CurrencyLogo } from '../../components/Logo'

@@ -1,4 +1,4 @@
-import { Box } from '@secrox/uikit'
+import { Box } from '@ecrox/uikit'
 import useTheme from 'hooks/useTheme'
 import PageSection from 'components/PageSection'
 import { TeamRanksProps } from '../types'

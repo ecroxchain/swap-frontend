@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, Heading, NftIcon, BunnyPlaceholderIcon } from '@secrox/uikit'
+import { Flex, Text, Heading, NftIcon, BunnyPlaceholderIcon } from '@ecrox/uikit'
 import Image from 'next/image'
 import { useTranslation } from 'contexts/Localization'
 import MoboxFlipperBunny from '../../../pngs/mobox-flipper.png'

@@ -1,4 +1,4 @@
-import { Box, Text, Skeleton } from '@secrox/uikit'
+import { Box, Text, Skeleton } from '@ecrox/uikit'
 import { fromUnixTime } from 'date-fns'
 import { useState, useMemo, memo, useEffect } from 'react'
 import { ChartEntry, ProtocolData } from 'state/info/types'

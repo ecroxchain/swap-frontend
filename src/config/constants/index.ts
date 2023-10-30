@@ -1,5 +1,5 @@
 // used to construct the list of all pairs we consider by default in the frontend
-import { ChainId, Token } from '@danielvindax/ecroxswap-sdk'
+import { ChainId, Token } from '@ecrox/ecroxswap-sdk'
 import { mainnetTokens, testnetTokens } from './tokens'
 import { ChainTokenList } from './types'
 

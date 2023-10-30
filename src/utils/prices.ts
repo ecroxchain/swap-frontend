@@ -1,4 +1,4 @@
-import { Price } from '@danielvindax/ecroxswap-sdk'
+import { Price } from '@ecrox/ecroxswap-sdk'
 /**
  * Helper to multiply a Price object by an arbitrary amount
  */

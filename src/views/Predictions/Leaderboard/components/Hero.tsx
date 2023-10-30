@@ -1,4 +1,4 @@
-import { Heading } from '@secrox/uikit'
+import { Heading } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import PageHeader from 'components/PageHeader'
 import Crumbs from './Crumbs'

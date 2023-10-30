@@ -14,7 +14,7 @@ import {
   Card,
   Skeleton,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import useSWRImmutable from 'swr/immutable'
 import orderBy from 'lodash/orderBy'
 import { getLeastMostPriceInCollection } from 'state/nftMarket/helpers'

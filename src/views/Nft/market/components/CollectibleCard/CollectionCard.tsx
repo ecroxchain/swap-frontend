@@ -1,4 +1,4 @@
-import { Card, CardBody, Flex, Heading, ProfileAvatar } from '@secrox/uikit'
+import { Card, CardBody, Flex, Heading, ProfileAvatar } from '@ecrox/uikit'
 
 import Image from 'next/image'
 import { NextLinkFromReactRouter } from 'components/NextLink'

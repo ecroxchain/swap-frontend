@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex } from '@secrox/uikit'
+import { Flex } from '@ecrox/uikit'
 
 export const ActionContainer = styled(Flex)`
   flex-direction: column;

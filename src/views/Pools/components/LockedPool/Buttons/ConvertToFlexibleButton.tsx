@@ -1,5 +1,5 @@
 import { memo, useCallback } from 'react'
-import { Button, ButtonProps } from '@secrox/uikit'
+import { Button, ButtonProps } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 import { useAppDispatch } from 'state'

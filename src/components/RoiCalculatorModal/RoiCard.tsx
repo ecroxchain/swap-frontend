@@ -1,6 +1,6 @@
 import { useRef, useEffect, useState } from 'react'
 import styled from 'styled-components'
-import { Box, Flex, Text, Input, CheckmarkIcon, PencilIcon, IconButton } from '@secrox/uikit'
+import { Box, Flex, Text, Input, CheckmarkIcon, PencilIcon, IconButton } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { CalculatorMode, RoiCalculatorReducerState } from './useRoiCalculatorReducer'
 

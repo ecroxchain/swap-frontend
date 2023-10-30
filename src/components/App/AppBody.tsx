@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card } from '@secrox/uikit'
+import { Card } from '@ecrox/uikit'
 
 export const BodyWrapper = styled(Card)`
   border-radius: 24px;

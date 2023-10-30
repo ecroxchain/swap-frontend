@@ -1,4 +1,4 @@
-import { Button, AutoRenewIcon, Skeleton } from '@secrox/uikit'
+import { Button, AutoRenewIcon, Skeleton } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useVaultApprove } from '../../../hooks/useApprove'
 

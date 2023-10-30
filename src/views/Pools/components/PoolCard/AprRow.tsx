@@ -1,4 +1,4 @@
-import { Flex, TooltipText, useTooltip } from '@secrox/uikit'
+import { Flex, TooltipText, useTooltip } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { DeserializedPool } from 'state/types'
 import BigNumber from 'bignumber.js'

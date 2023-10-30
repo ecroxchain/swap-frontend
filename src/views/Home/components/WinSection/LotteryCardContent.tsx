@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Flex, Text, Skeleton, Button, ArrowForwardIcon } from '@secrox/uikit'
+import { Flex, Text, Skeleton, Button, ArrowForwardIcon } from '@ecrox/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'
 import useIntersectionObserver from 'hooks/useIntersectionObserver'

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Text, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Flex, Text, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import BaseCell, { CellContent } from 'views/Pools/components/PoolsTable/Cells/BaseCell'
 

@@ -1,4 +1,4 @@
-import { Flex, Heading, Text, SkeletonV2 } from '@secrox/uikit'
+import { Flex, Heading, Text, SkeletonV2 } from '@ecrox/uikit'
 import { useProfileForAddress } from 'state/profile/hooks'
 import styled from 'styled-components'
 import truncateHash from 'utils/truncateHash'

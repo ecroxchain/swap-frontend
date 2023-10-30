@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Flex, useTooltip } from '@secrox/uikit'
+import { Flex, useTooltip } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import CountdownCircle from './CountdownCircle'
 

@@ -1,5 +1,5 @@
 import { useWeb3React } from '@web3-react/core'
-import { Flex, Text, Heading } from '@secrox/uikit'
+import { Flex, Text, Heading } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import Link from 'next/link'

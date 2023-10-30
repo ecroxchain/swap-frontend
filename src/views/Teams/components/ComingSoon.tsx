@@ -1,4 +1,4 @@
-import { BunnyPlaceholderIcon, Flex, Heading } from '@secrox/uikit'
+import { BunnyPlaceholderIcon, Flex, Heading } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface ComingSoonProps {

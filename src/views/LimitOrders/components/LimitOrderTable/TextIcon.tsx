@@ -1,4 +1,4 @@
-import { Flex, Text } from '@secrox/uikit'
+import { Flex, Text } from '@ecrox/uikit'
 import { ReactElement } from 'react-markdown'
 
 interface TextIconProps {

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ModalBody, ModalContainer, Message, ModalHeader, Box, Heading } from '@secrox/uikit'
+import { ModalBody, ModalContainer, Message, ModalHeader, Box, Heading } from '@ecrox/uikit'
 import useTheme from 'hooks/useTheme'
 import { useTranslation } from 'contexts/Localization'
 import { WrappedTokenInfo } from 'state/types'

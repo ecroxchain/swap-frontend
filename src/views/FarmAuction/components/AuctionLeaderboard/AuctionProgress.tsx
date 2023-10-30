@@ -1,4 +1,4 @@
-import { Progress } from '@secrox/uikit'
+import { Progress } from '@ecrox/uikit'
 import { differenceInSeconds } from 'date-fns'
 import { Auction, AuctionStatus } from 'config/constants/types'
 import { SLOW_INTERVAL } from 'config/constants'

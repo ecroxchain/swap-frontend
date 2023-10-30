@@ -1,4 +1,4 @@
-import { Box, lightColors, Progress, Text } from '@secrox/uikit'
+import { Box, lightColors, Progress, Text } from '@ecrox/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 import { SaleStatusEnum, UserStatusEnum } from '../../types'
 

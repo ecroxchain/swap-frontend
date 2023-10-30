@@ -1,5 +1,5 @@
 import { ReactElement } from 'react'
-import { Box, Flex, HelpIcon, CardHeader, CardBody, Text, useTooltip } from '@secrox/uikit'
+import { Box, Flex, HelpIcon, CardHeader, CardBody, Text, useTooltip } from '@ecrox/uikit'
 
 import { StyledCard } from '../IfoCardStyles'
 import { CardConfigReturn } from './types'

@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Svg, SvgProps } from '@secrox/uikit'
+import { Svg, SvgProps } from '@ecrox/uikit'
 
 const Icon: React.FC<SvgProps & { isDark: boolean }> = ({ isDark, ...props }) => {
   return (

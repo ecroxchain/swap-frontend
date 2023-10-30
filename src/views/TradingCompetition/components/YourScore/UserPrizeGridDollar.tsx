@@ -1,4 +1,4 @@
-import { Text, Skeleton } from '@secrox/uikit'
+import { Text, Skeleton } from '@ecrox/uikit'
 
 interface UserPrizeGridDollarProps {
   dollarValueOfTokensReward: number

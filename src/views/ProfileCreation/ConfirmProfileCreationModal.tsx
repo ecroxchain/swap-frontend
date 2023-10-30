@@ -1,4 +1,4 @@
-import { Modal, Flex, Text } from '@secrox/uikit'
+import { Modal, Flex, Text } from '@ecrox/uikit'
 import { BigNumber } from '@ethersproject/bignumber'
 import { formatUnits } from '@ethersproject/units'
 import { useTranslation } from 'contexts/Localization'

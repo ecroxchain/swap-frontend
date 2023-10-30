@@ -1,5 +1,5 @@
-import { Trade, TradeType } from '@danielvindax/ecroxswap-sdk'
-import { Text } from '@secrox/uikit'
+import { Trade, TradeType } from '@ecrox/ecroxswap-sdk'
+import { Text } from '@ecrox/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from 'contexts/Localization'
 import { useUserSlippageTolerance } from 'state/user/hooks'

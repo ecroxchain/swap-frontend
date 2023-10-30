@@ -1,4 +1,4 @@
-import { HistoryIcon, Button, useModal } from '@secrox/uikit'
+import { HistoryIcon, Button, useModal } from '@ecrox/uikit'
 import TransactionsModal from './TransactionsModal'
 
 const Transactions = () => {

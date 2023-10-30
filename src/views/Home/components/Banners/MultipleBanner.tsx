@@ -1,4 +1,4 @@
-import { appearAnimation, useMatchBreakpointsContext } from '@secrox/uikit'
+import { appearAnimation, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { useLayoutEffect, useState } from 'react'
 import styled from 'styled-components'

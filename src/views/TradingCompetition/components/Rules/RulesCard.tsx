@@ -1,4 +1,4 @@
-import { Heading, Card, CardBody } from '@secrox/uikit'
+import { Heading, Card, CardBody } from '@ecrox/uikit'
 
 const RulesCard: React.FC<{ title?: string }> = ({ title, children }) => {
   return (

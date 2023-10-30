@@ -1,4 +1,4 @@
-import { Box, Breadcrumbs, Card, Flex, Heading, Text } from '@secrox/uikit'
+import { Box, Breadcrumbs, Card, Flex, Heading, Text } from '@ecrox/uikit'
 import Link from 'next/link'
 import { useTranslation } from 'contexts/Localization'
 import Container from 'components/Layout/Container'

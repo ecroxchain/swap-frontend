@@ -1,4 +1,4 @@
-import { EventStatus, StepStatus } from '@secrox/uikit'
+import { EventStatus, StepStatus } from '@ecrox/uikit'
 import { SaleStatusEnum } from 'views/PancakeSquad/types'
 import { getEventStepStatus, getEventStepStatusType } from 'views/PancakeSquad/utils'
 

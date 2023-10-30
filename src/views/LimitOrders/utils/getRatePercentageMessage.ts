@@ -1,4 +1,4 @@
-import { Percent } from '@danielvindax/ecroxswap-sdk'
+import { Percent } from '@ecrox/ecroxswap-sdk'
 import { TranslateFunction } from 'contexts/Localization/types'
 
 export enum PercentageDirection {

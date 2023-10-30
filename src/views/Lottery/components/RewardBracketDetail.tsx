@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js'
-import { Flex, Skeleton, Text } from '@secrox/uikit'
+import { Flex, Skeleton, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import Balance from 'components/Balance'

@@ -1,4 +1,4 @@
-import { Box, Button, Grid, Flex, AutoRenewIcon, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Box, Button, Grid, Flex, AutoRenewIcon, useMatchBreakpointsContext } from '@ecrox/uikit'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import {
   useGetLeaderboardHasMoreResults,

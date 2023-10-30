@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import styled from 'styled-components'
-import { Button, Heading, Flex, useModal, AutoRenewIcon } from '@secrox/uikit'
+import { Button, Heading, Flex, useModal, AutoRenewIcon } from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { FetchStatus, LotteryStatus } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'

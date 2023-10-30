@@ -1,7 +1,7 @@
 import JSBI from 'jsbi'
 import { useDispatch, useSelector } from 'react-redux'
 import { ParsedUrlQuery } from 'querystring'
-import { Currency, CurrencyAmount, TokenAmount, Trade, Token, Price, ETHER } from '@danielvindax/ecroxswap-sdk'
+import { Currency, CurrencyAmount, TokenAmount, Trade, Token, Price, ETHER } from '@ecrox/ecroxswap-sdk'
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import { DEFAULT_INPUT_CURRENCY, DEFAULT_OUTPUT_CURRENCY, BIG_INT_TEN } from 'config/constants/exchange'
 import { useRouter } from 'next/router'

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Grid, Box } from '@secrox/uikit'
+import { Grid, Box } from '@ecrox/uikit'
 
 export const AddressColumn = styled(Box).attrs({ alignItems: 'center' })`
   grid-area: address;

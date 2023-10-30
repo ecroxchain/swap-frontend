@@ -1,5 +1,5 @@
-import { ChainId, Currency, currencyEquals, ETHER, Token } from '@danielvindax/ecroxswap-sdk'
-import { Text } from '@secrox/uikit'
+import { ChainId, Currency, currencyEquals, ETHER, Token } from '@ecrox/ecroxswap-sdk'
+import { Text } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 

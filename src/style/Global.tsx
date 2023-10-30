@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components'
-import { PancakeTheme } from '@secrox/uikit'
+import { PancakeTheme } from '@ecrox/uikit'
 
 declare module 'styled-components' {
   /* eslint-disable @typescript-eslint/no-empty-interface */

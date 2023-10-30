@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, LaurelLeftIcon, LaurelRightIcon } from '@secrox/uikit'
+import { Flex, LaurelLeftIcon, LaurelRightIcon } from '@ecrox/uikit'
 import { RibbonProps } from '../../types'
 import {
   RibbonDownMidExpanding,

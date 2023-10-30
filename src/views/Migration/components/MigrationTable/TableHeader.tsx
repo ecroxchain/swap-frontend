@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, CardHeader } from '@secrox/uikit'
+import { Text, CardHeader } from '@ecrox/uikit'
 
 export interface TableHeaderProps {
   title: string

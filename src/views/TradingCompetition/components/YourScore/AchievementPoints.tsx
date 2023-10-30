@@ -1,4 +1,4 @@
-import { Text, Flex, Image } from '@secrox/uikit'
+import { Text, Flex, Image } from '@ecrox/uikit'
 import { useTranslation } from '../../../../contexts/Localization'
 
 interface AchievementPointsProps {

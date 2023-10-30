@@ -8,7 +8,7 @@ import {
   IconButton,
   ChevronUpIcon,
   ChevronDownIcon,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 
 interface CollapsibleCardProps extends CardProps {
   initialOpenState?: boolean

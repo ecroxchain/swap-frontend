@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Link, Text } from '@secrox/uikit'
+import { Box, Button, Flex, Link, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { LandingBodyWrapper } from 'views/PancakeSquad/styles'
 import eventDescriptionConfigBuilder from './config'

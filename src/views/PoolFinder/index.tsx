@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from 'react'
-import { Currency, ETHER, JSBI, TokenAmount } from '@danielvindax/ecroxswap-sdk'
-import { Button, ChevronDownIcon, Text, AddIcon, useModal } from '@secrox/uikit'
+import { Currency, ETHER, JSBI, TokenAmount } from '@ecrox/ecroxswap-sdk'
+import { Button, ChevronDownIcon, Text, AddIcon, useModal } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import { NextLinkFromReactRouter } from 'components/NextLink'

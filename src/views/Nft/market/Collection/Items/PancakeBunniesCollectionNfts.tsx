@@ -1,4 +1,4 @@
-import { Grid } from '@secrox/uikit'
+import { Grid } from '@ecrox/uikit'
 import orderBy from 'lodash/orderBy'
 import { CollectibleLinkCard } from '../../components/CollectibleCard'
 import useAllPancakeBunnyNfts from '../../hooks/useAllPancakeBunnyNfts'

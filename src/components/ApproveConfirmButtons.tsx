@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ChevronRightIcon, Button as UIKitButton, AutoRenewIcon, ChevronDownIcon, Box, Flex } from '@secrox/uikit'
+import { ChevronRightIcon, Button as UIKitButton, AutoRenewIcon, ChevronDownIcon, Box, Flex } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 export enum ButtonArrangement {

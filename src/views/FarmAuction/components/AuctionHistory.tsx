@@ -12,7 +12,7 @@ import {
   BunnyPlaceholderIcon,
   Spinner,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import AuctionLeaderboardTable from './AuctionLeaderboard/AuctionLeaderboardTable'
 import { useFarmAuction } from '../hooks/useFarmAuction'

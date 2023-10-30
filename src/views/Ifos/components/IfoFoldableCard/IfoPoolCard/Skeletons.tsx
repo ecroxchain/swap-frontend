@@ -1,4 +1,4 @@
-import { Flex, Skeleton } from '@secrox/uikit'
+import { Flex, Skeleton } from '@ecrox/uikit'
 
 export const SkeletonCardActions = () => {
   return <Skeleton height="48px" />

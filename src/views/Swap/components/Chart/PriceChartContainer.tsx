@@ -1,4 +1,4 @@
-import { Currency } from '@danielvindax/ecroxswap-sdk'
+import { Currency } from '@ecrox/ecroxswap-sdk'
 import useTheme from 'hooks/useTheme'
 import { useCallback, useState } from 'react'
 import BnbWbnbNotice from './BnbWbnbNotice'

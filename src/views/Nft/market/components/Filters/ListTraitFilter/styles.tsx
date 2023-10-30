@@ -1,4 +1,4 @@
-import { Radio, Text } from '@secrox/uikit'
+import { Radio, Text } from '@ecrox/uikit'
 import noop from 'lodash/noop'
 import { formatNumber } from 'utils/formatBalance'
 import { ItemImage, StyledItemRow } from '../ListFilter/styles'

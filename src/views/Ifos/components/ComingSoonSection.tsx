@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Card, Text, BunnyPlaceholderIcon, Box } from '@secrox/uikit'
+import { Card, Text, BunnyPlaceholderIcon, Box } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
 // import ConnectWalletButton from 'components/ConnectWalletButton'

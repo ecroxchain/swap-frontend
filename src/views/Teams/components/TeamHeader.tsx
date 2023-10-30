@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Heading, Text } from '@secrox/uikit'
+import { Heading, Text } from '@ecrox/uikit'
 import { useProfile } from 'state/profile/hooks'
 import { useTranslation } from 'contexts/Localization'
 import NoProfileCard from './NoProfileCard'

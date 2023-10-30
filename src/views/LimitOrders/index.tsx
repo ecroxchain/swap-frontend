@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState, useMemo } from 'react'
 import { useRouter } from 'next/router'
-import { CurrencyAmount, Token, Trade } from '@danielvindax/ecroxswap-sdk'
-import { Button, Box, Flex, useModal, BottomDrawer, Link, useMatchBreakpointsContext } from '@secrox/uikit'
+import { CurrencyAmount, Token, Trade } from '@ecrox/ecroxswap-sdk'
+import { Button, Box, Flex, useModal, BottomDrawer, Link, useMatchBreakpointsContext } from '@ecrox/uikit'
 
 import { useTranslation } from 'contexts/Localization'
 import { AutoColumn } from 'components/Layout/Column'

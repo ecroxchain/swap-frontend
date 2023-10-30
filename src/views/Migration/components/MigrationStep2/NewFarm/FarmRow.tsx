@@ -9,7 +9,7 @@ import Multiplier, { MultiplierProps } from 'views/Migration/components/Migratio
 import Liquidity, { LiquidityProps } from 'views/Migration/components/MigrationStep1/OldFarm/Cells/Liquidity'
 import ExpandActionCell from 'views/Migration/components/MigrationStep1/OldPool/Cells/ExpandActionCell'
 import { useFarmUser } from 'state/farms/hooks'
-import { useMatchBreakpointsContext } from '@secrox/uikit'
+import { useMatchBreakpointsContext } from '@ecrox/uikit'
 import AprCell from './Cells/AprCell'
 import StakeButtonCells from './Cells/StakeButtonCells'
 import StakeButton from './StakeButton'

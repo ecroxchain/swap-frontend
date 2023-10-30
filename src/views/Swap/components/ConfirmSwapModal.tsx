@@ -1,6 +1,6 @@
 import { useCallback, useMemo } from 'react'
-import { currencyEquals, Trade } from '@danielvindax/ecroxswap-sdk'
-import { InjectedModalProps } from '@secrox/uikit'
+import { currencyEquals, Trade } from '@ecrox/ecroxswap-sdk'
+import { InjectedModalProps } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

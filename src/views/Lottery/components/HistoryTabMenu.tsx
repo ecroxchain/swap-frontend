@@ -1,4 +1,4 @@
-import { ButtonMenu, ButtonMenuItem } from '@secrox/uikit'
+import { ButtonMenu, ButtonMenuItem } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const HistoryTabMenu = ({ setActiveIndex, activeIndex }) => {

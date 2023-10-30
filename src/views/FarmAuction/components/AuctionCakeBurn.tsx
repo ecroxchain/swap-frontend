@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Text, Flex, Skeleton, Image } from '@secrox/uikit'
+import { Text, Flex, Skeleton, Image } from '@ecrox/uikit'
 import { useFarmAuctionContract } from 'hooks/useContract'
 import useIntersectionObserver from 'hooks/useIntersectionObserver'
 import { useTranslation } from 'contexts/Localization'

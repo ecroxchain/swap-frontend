@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { AutoRenewIcon, Button, Flex } from '@secrox/uikit'
+import { AutoRenewIcon, Button, Flex } from '@ecrox/uikit'
 import { Achievement } from 'state/types'
 import useToast from 'hooks/useToast'
 import { useTranslation } from 'contexts/Localization'

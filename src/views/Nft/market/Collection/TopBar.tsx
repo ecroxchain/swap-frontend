@@ -1,4 +1,4 @@
-import { Box, ChevronLeftIcon, Flex } from '@secrox/uikit'
+import { Box, ChevronLeftIcon, Flex } from '@ecrox/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'

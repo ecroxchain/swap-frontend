@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback, ReactElement, memo, useEffect } from 'react'
-import { Text, Flex, Box, Grid, ArrowBackIcon, ArrowForwardIcon } from '@secrox/uikit'
+import { Text, Flex, Box, Grid, ArrowBackIcon, ArrowForwardIcon } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import { SubgraphHealthIndicator } from 'components/SubgraphHealthIndicator'

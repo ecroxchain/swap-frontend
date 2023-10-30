@@ -1,4 +1,4 @@
-import { Card, CardBody, Text, Flex, BlockIcon, LinkExternal } from '@secrox/uikit'
+import { Card, CardBody, Text, Flex, BlockIcon, LinkExternal } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { NodeRound, BetPosition } from 'state/types'
 import useTheme from 'hooks/useTheme'

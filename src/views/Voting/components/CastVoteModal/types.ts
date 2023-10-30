@@ -1,4 +1,4 @@
-import { InjectedModalProps } from '@secrox/uikit'
+import { InjectedModalProps } from '@ecrox/uikit'
 
 export enum ConfirmVoteView {
   MAIN = 'main',

@@ -1,5 +1,5 @@
-import { Modal, ModalBody, Text, Image, Button, Link, OpenNewIcon } from '@secrox/uikit'
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Modal, ModalBody, Text, Image, Button, Link, OpenNewIcon } from '@ecrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
 import { useTranslation } from 'contexts/Localization'
 
 interface Props {

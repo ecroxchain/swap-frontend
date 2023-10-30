@@ -1,5 +1,5 @@
-import { Price } from '@danielvindax/ecroxswap-sdk'
-import { Flex, Text } from '@secrox/uikit'
+import { Price } from '@ecrox/ecroxswap-sdk'
+import { Flex, Text } from '@ecrox/uikit'
 import { multiplyPriceByAmount } from 'utils/prices'
 import { useTranslation } from 'contexts/Localization'
 import { useConfig } from 'views/Predictions/context/ConfigProvider'

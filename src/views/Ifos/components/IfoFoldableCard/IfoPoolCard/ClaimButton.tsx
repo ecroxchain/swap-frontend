@@ -1,4 +1,4 @@
-import { AutoRenewIcon, Button } from '@secrox/uikit'
+import { AutoRenewIcon, Button } from '@ecrox/uikit'
 import { PoolIds } from 'config/constants/types'
 import { WalletIfoData } from 'views/Ifos/types'
 import { useTranslation } from 'contexts/Localization'

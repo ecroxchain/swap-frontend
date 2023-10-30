@@ -1,4 +1,4 @@
-import { Box, Flex } from '@secrox/uikit'
+import { Box, Flex } from '@ecrox/uikit'
 import styled from 'styled-components'
 import HarvestCard from './HarvestCard'
 import UserDetail from './UserDetail'

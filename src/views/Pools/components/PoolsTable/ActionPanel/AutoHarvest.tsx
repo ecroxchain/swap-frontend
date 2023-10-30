@@ -1,4 +1,4 @@
-import { Text, Flex, Skeleton, Heading, Box, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Text, Flex, Skeleton, Heading, Box, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { getCakeVaultEarnings } from 'views/Pools/helpers'
 import { useTranslation } from 'contexts/Localization'

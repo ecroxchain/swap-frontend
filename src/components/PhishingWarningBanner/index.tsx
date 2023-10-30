@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Flex, Box, CloseIcon, IconButton, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Text, Flex, Box, CloseIcon, IconButton, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { usePhishingBannerManager } from 'state/user/hooks'
 

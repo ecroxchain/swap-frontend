@@ -1,6 +1,6 @@
 import styled, { keyframes, css } from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
-import { LinkExternal, Text, useMatchBreakpointsContext } from '@secrox/uikit'
+import { LinkExternal, Text, useMatchBreakpointsContext } from '@ecrox/uikit'
 import getLiquidityUrlPathParts from 'utils/getLiquidityUrlPathParts'
 import { getAddress } from 'utils/addressHelpers'
 import { getBscScanLink } from 'utils'

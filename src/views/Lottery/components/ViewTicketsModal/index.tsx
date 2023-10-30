@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Modal } from '@secrox/uikit'
+import { Modal } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { LotteryStatus } from 'config/constants/types'
 import { useLottery } from 'state/lottery/hooks'

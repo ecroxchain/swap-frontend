@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@danielvindax/ecroxswap-sdk'
+import { ChainId, Token } from '@ecrox/ecroxswap-sdk'
 import { createSelector } from '@reduxjs/toolkit'
 import { CHAIN_ID } from 'config/constants/networks'
 import { useSelector } from 'react-redux'

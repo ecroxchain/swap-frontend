@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
 import { useRouter } from 'next/router'
-import { SubMenuItems } from '@secrox/uikit'
+import { SubMenuItems } from '@ecrox/uikit'
 import { useTranslation } from '../../../../contexts/Localization'
 
 const SubMenu: React.FC = () => {

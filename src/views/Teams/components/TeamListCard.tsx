@@ -1,6 +1,6 @@
 import styled, { DefaultTheme } from 'styled-components'
 import Link from 'next/link'
-import { Button, Card, CommunityIcon, Flex, Heading, PrizeIcon, Text } from '@secrox/uikit'
+import { Button, Card, CommunityIcon, Flex, Heading, PrizeIcon, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Team } from 'config/constants/types'
 

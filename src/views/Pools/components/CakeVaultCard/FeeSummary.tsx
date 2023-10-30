@@ -1,4 +1,4 @@
-import { Text, Flex, useTooltip, TooltipText } from '@secrox/uikit'
+import { Text, Flex, useTooltip, TooltipText } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { VaultKey } from 'state/types'
 import { useVaultPoolByKey } from 'state/pools/hooks'

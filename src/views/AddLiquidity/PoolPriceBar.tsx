@@ -1,5 +1,5 @@
-import { Currency, Percent, Price } from '@danielvindax/ecroxswap-sdk'
-import { Text } from '@secrox/uikit'
+import { Currency, Percent, Price } from '@ecrox/ecroxswap-sdk'
+import { Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { ONE_BIPS } from 'config/constants/exchange'
 import { AutoColumn } from '../../components/Layout/Column'

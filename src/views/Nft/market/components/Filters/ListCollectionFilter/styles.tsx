@@ -1,4 +1,4 @@
-import { Checkbox, Flex, Text } from '@secrox/uikit'
+import { Checkbox, Flex, Text } from '@ecrox/uikit'
 import { StyledItemRow } from '../ListFilter/styles'
 
 interface CollectionItemRowProps {

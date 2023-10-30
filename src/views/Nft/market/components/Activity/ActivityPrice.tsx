@@ -1,4 +1,4 @@
-import { Flex, BinanceIcon, Text, Skeleton } from '@secrox/uikit'
+import { Flex, BinanceIcon, Text, Skeleton } from '@ecrox/uikit'
 import { multiplyPriceByAmount } from 'utils/prices'
 
 const ActivityPrice = ({ bnbBusdPrice, price }) => {

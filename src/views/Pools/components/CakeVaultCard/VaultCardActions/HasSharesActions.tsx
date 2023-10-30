@@ -1,4 +1,4 @@
-import { Flex, Text, IconButton, AddIcon, MinusIcon, useModal, Skeleton, Box } from '@secrox/uikit'
+import { Flex, Text, IconButton, AddIcon, MinusIcon, useModal, Skeleton, Box } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { DeserializedPool } from 'state/types'

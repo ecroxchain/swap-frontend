@@ -1,4 +1,4 @@
-import { Button, Flex, Text } from '@secrox/uikit'
+import { Button, Flex, Text } from '@ecrox/uikit'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { useTranslation } from 'contexts/Localization'

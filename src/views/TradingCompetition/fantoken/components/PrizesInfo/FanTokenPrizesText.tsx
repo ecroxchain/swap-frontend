@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, Heading } from '@secrox/uikit'
+import { Flex, Text, Heading } from '@ecrox/uikit'
 import Image from 'next/image'
 import { useTranslation } from 'contexts/Localization'
 import FanTokenFlipperBunny from '../../../pngs/fan-token-flippers.png'

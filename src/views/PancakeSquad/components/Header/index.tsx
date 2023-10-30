@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Box, Flex, lightColors, Spinner, Text, Timeline } from '@secrox/uikit'
+import { Box, Flex, lightColors, Spinner, Text, Timeline } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useGetCakeBalance } from 'hooks/useTokenBalance'
 import useTheme from 'hooks/useTheme'

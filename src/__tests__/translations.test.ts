@@ -53,7 +53,7 @@ describe('Check translations available', () => {
   }
 
   throughDirectory('src/')
-  throughDirectory('node_modules/@secrox/uikit', true)
+  throughDirectory('node_modules/@ecrox/uikit', true)
 
   let match
 

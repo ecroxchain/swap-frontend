@@ -1,4 +1,4 @@
-import { Box, BoxProps, Grid, GridProps, Skeleton } from '@secrox/uikit'
+import { Box, BoxProps, Grid, GridProps, Skeleton } from '@ecrox/uikit'
 import times from 'lodash/times'
 
 interface GridPlaceholderProps extends GridProps {

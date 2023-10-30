@@ -1,4 +1,4 @@
-import { useModal, Button, Skeleton } from '@secrox/uikit'
+import { useModal, Button, Skeleton } from '@ecrox/uikit'
 import WhitelistedBiddersModal from './WhitelistedBiddersModal'
 import useWhitelistedAddresses from '../hooks/useWhitelistedAddresses'
 

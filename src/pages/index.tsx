@@ -1,4 +1,4 @@
-import { FACTORY_ADDRESS } from '@danielvindax/ecroxswap-sdk'
+import { FACTORY_ADDRESS } from '@ecrox/ecroxswap-sdk'
 import { getUnixTime, sub } from 'date-fns'
 import { gql } from 'graphql-request'
 import { GetStaticProps } from 'next'

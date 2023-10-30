@@ -13,13 +13,13 @@ import {
   Skeleton,
   Heading,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { useProfileForAddress } from 'state/profile/hooks'
 import useTheme from 'hooks/useTheme'
 import styled from 'styled-components'
 import { getBscScanLink } from 'utils'
 import truncateHash from 'utils/truncateHash'
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 
 import { useTranslation } from 'contexts/Localization'
 import { FetchStatus } from 'config/constants/types'

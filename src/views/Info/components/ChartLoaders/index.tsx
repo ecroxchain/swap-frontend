@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Text } from '@secrox/uikit'
+import { Box, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import LineChartLoaderSVG from './LineChartLoaderSVG'
 import BarChartLoaderSVG from './BarChartLoaderSVG'

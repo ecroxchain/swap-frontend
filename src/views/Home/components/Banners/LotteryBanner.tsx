@@ -1,4 +1,4 @@
-import { ArrowForwardIcon, Button, Heading, Skeleton, Text, useMatchBreakpointsContext } from '@secrox/uikit'
+import { ArrowForwardIcon, Button, Heading, Skeleton, Text, useMatchBreakpointsContext } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { FetchStatus, LotteryStatus } from 'config/constants/types'

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { Modal, Box, Text, Flex, Input, OpenNewIcon, Spinner, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Modal, Box, Text, Flex, Input, OpenNewIcon, Spinner, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import { FarmAuctionBidderConfig } from 'config/constants/types'

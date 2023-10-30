@@ -15,9 +15,9 @@ import {
   Box,
   ModalCloseButton,
   Skeleton,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { AnyAction, AsyncThunkAction } from '@reduxjs/toolkit'
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 
 import { useWeb3React } from '@web3-react/core'
 import { REWARD_RATE } from 'state/predictions/config'

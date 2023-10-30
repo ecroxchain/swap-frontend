@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { useRouter } from 'next/router'
-import { useModal } from '@secrox/uikit'
+import { useModal } from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import dynamic from 'next/dynamic'
 import request, { gql } from 'graphql-request'

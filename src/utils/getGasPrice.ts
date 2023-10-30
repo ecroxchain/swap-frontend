@@ -1,4 +1,4 @@
-import { ChainId } from '@danielvindax/ecroxswap-sdk'
+import { ChainId } from '@ecrox/ecroxswap-sdk'
 import { CHAIN_ID } from 'config/constants/networks'
 import store from 'state'
 import { GAS_PRICE_GWEI } from 'state/types'

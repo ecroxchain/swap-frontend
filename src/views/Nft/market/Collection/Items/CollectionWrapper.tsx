@@ -1,5 +1,5 @@
 import { createPortal } from 'react-dom'
-import { Box } from '@secrox/uikit'
+import { Box } from '@ecrox/uikit'
 import { Collection } from 'state/nftMarket/types'
 import Container from 'components/Layout/Container'
 import ScrollButton from 'components/ScrollToTopButton'

@@ -1,4 +1,4 @@
-import { Box, Flex, Skeleton, Text, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Box, Flex, Skeleton, Text, useMatchBreakpointsContext } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
 import Balance from 'components/Balance'
 import { useTranslation } from 'contexts/Localization'

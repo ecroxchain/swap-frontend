@@ -1,4 +1,4 @@
-import { Box, Flex, Text, NftIcon } from '@secrox/uikit'
+import { Box, Flex, Text, NftIcon } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { NftAttribute } from 'state/nftMarket/types'
 import ExpandableCard from './ExpandableCard'

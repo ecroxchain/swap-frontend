@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Flex, Box } from '@secrox/uikit'
+import { Flex, Box } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
 import { getVaultPosition, VaultPosition } from 'utils/cakePool'
 import { BIG_ZERO } from 'utils/bigNumber'

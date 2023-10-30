@@ -1,5 +1,5 @@
 import { ReactNode } from 'react'
-import { Flex, Box, FlexProps } from '@secrox/uikit'
+import { Flex, Box, FlexProps } from '@ecrox/uikit'
 import Image from 'next/image'
 import StyledBannerImageWrapper from './BannerImage'
 

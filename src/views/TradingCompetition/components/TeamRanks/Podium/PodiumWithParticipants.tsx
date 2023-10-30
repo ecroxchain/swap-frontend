@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Flex, Text, Skeleton, AccountFilledIcon } from '@secrox/uikit'
+import { Flex, Text, Skeleton, AccountFilledIcon } from '@ecrox/uikit'
 import { StyledVolumeText, PodiumProps, RightBox, MiddleBox, LeftBox, Wrapper, Inner, StyledVolumeFlex } from './styles'
 import TeamPodiumIcon from './TeamPodiumIcon'
 import { PodiumBase } from '../../../svgs'

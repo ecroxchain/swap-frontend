@@ -1,5 +1,5 @@
 import { Order } from '@gelatonetwork/limit-orders-lib'
-import { Flex, ChevronRightIcon, Text, Box, useModal } from '@secrox/uikit'
+import { Flex, ChevronRightIcon, Text, Box, useModal } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useFormattedOrderData from 'views/LimitOrders/hooks/useFormattedOrderData'
 import CurrencyFormat from './CurrencyFormat'

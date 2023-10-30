@@ -10,7 +10,7 @@ import {
   UserMenuItem,
   UserMenuVariant,
   Box,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import Trans from 'components/Trans'
 import useAuth from 'hooks/useAuth'
 // import { useRouter } from 'next/router'

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { Text, Card, Flex, Box, Spinner } from '@secrox/uikit'
+import { Text, Card, Flex, Box, Spinner } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Auction, AuctionStatus, Bidder } from 'config/constants/types'
 import { TabToggleGroup, TabToggle } from 'components/TabToggle'

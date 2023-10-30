@@ -2,7 +2,7 @@ import { Web3Provider } from '@ethersproject/providers'
 import IPancakeRouter02ABI from 'config/abi/IPancakeRouter02.json'
 import { IPancakeRouter02 } from 'config/abi/types/IPancakeRouter02'
 import { CHAIN_ID } from 'config/constants/networks'
-import { JSBI, Percent, CurrencyAmount, Trade, Fraction, TokenAmount } from '@danielvindax/ecroxswap-sdk'
+import { JSBI, Percent, CurrencyAmount, Trade, Fraction, TokenAmount } from '@ecrox/ecroxswap-sdk'
 import {
   ROUTER_ADDRESS,
   BIPS_BASE,

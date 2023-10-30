@@ -1,5 +1,5 @@
-import { ChainId } from '@danielvindax/ecroxswap-sdk'
-import BigNumber from 'bignumber.js/bignumber'
+import { ChainId } from '@ecrox/ecroxswap-sdk'
+import BigNumber from 'bignumber.js'
 import { BIG_TEN } from 'utils/bigNumber'
 
 BigNumber.config({

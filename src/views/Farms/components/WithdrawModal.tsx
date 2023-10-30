@@ -1,6 +1,6 @@
 import BigNumber from 'bignumber.js'
 import { useCallback, useMemo, useState } from 'react'
-import { Button, Modal, AutoRenewIcon } from '@secrox/uikit'
+import { Button, Modal, AutoRenewIcon } from '@ecrox/uikit'
 import { ModalActions, ModalInput } from 'components/Modal'
 import { useTranslation } from 'contexts/Localization'
 import { getFullDisplayBalance } from 'utils/formatBalance'

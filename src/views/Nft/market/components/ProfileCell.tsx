@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Flex, BunnyPlaceholderIcon, Skeleton, Text } from '@secrox/uikit'
+import { Box, Flex, BunnyPlaceholderIcon, Skeleton, Text } from '@ecrox/uikit'
 import truncateHash from 'utils/truncateHash'
 import { useProfileForAddress } from 'state/profile/hooks'
 import { NextLinkFromReactRouter } from 'components/NextLink'

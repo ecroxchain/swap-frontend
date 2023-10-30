@@ -1,4 +1,4 @@
-import { Text, Flex, HelpIcon, useTooltip } from '@secrox/uikit'
+import { Text, Flex, HelpIcon, useTooltip } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const CannotBidMessage: React.FC = () => {

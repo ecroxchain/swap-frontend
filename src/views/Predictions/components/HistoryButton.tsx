@@ -1,5 +1,5 @@
 import { useWeb3React } from '@web3-react/core'
-import { AutoRenewIcon, HistoryIcon, IconButton } from '@secrox/uikit'
+import { AutoRenewIcon, HistoryIcon, IconButton } from '@ecrox/uikit'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { setHistoryPaneState } from 'state/predictions'
 import { useGetIsFetchingHistory } from 'state/predictions/hooks'

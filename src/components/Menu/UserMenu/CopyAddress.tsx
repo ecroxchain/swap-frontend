@@ -1,4 +1,4 @@
-import { Box, Flex, FlexProps } from '@secrox/uikit'
+import { Box, Flex, FlexProps } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import { CopyButton } from '../../CopyButton'

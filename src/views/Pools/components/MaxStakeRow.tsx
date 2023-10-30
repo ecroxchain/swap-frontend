@@ -1,11 +1,11 @@
 import React from 'react'
-import { Flex, Link, Text, TimerIcon } from '@secrox/uikit'
+import { Flex, Link, Text, TimerIcon } from '@ecrox/uikit'
 import { getBscScanLink } from 'utils'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from 'contexts/Localization'
 import Balance from 'components/Balance'
 import { getFullDisplayBalance } from 'utils/formatBalance'
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 
 interface MaxStakeRowProps {
   small?: boolean

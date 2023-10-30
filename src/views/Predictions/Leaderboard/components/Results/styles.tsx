@@ -1,5 +1,5 @@
-import { Token } from '@danielvindax/ecroxswap-sdk'
-import { Flex, FlexProps, Text } from '@secrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
+import { Flex, FlexProps, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useBUSDPrice from 'hooks/useBUSDPrice'
 import { multiplyPriceByAmount } from 'utils/prices'

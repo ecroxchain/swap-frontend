@@ -1,4 +1,4 @@
-import { Box, Flex, Skeleton } from '@secrox/uikit'
+import { Box, Flex, Skeleton } from '@ecrox/uikit'
 import times from 'lodash/times'
 import styled from 'styled-components'
 

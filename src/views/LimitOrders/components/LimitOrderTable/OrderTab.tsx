@@ -1,4 +1,4 @@
-import { ButtonMenu, ButtonMenuItem } from '@secrox/uikit'
+import { ButtonMenu, ButtonMenuItem } from '@ecrox/uikit'
 import styled from 'styled-components'
 import useTheme from 'hooks/useTheme'
 import { useTranslation } from 'contexts/Localization'

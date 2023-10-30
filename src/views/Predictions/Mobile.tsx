@@ -1,6 +1,6 @@
 import { memo } from 'react'
 import styled from 'styled-components'
-import { Box, Flex } from '@secrox/uikit'
+import { Box, Flex } from '@ecrox/uikit'
 import { useGetPredictionsStatus, useIsChartPaneOpen, useIsHistoryPaneOpen } from 'state/predictions/hooks'
 import { PredictionStatus } from 'state/types'
 import MobileMenu from './components/MobileMenu'

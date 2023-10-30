@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@danielvindax/ecroxswap-sdk'
+import { Token, TokenAmount } from '@ecrox/ecroxswap-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

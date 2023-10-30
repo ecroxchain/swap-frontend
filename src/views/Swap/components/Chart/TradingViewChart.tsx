@@ -1,4 +1,4 @@
-import { Box, BunnyPlaceholderIcon, Flex, Text } from '@secrox/uikit'
+import { Box, BunnyPlaceholderIcon, Flex, Text } from '@ecrox/uikit'
 import TradingView, { useTradingViewEvent } from 'components/TradingView'
 import { useTranslation } from 'contexts/Localization'
 import useDebounce from 'hooks/useDebounce'

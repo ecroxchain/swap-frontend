@@ -1,4 +1,4 @@
-import { Button, ButtonProps, useModal } from '@secrox/uikit'
+import { Button, ButtonProps, useModal } from '@ecrox/uikit'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { useCollectWinningModalProps } from 'state/predictions/hooks'
 import { useConfig } from '../context/ConfigProvider'

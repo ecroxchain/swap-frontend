@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Text } from '@secrox/uikit'
+import { Box, Button, Flex, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { LandingBodyWrapper, StyledWaveContainer } from 'views/PancakeSquad/styles'
 import { useTheme } from 'styled-components'

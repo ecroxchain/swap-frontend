@@ -1,4 +1,4 @@
-import { Box, ButtonMenu, ButtonMenuItem } from '@secrox/uikit'
+import { Box, ButtonMenu, ButtonMenuItem } from '@ecrox/uikit'
 import RoiCalculatorModal, { RoiCalculatorModalProps } from 'components/RoiCalculatorModal'
 import { CalculatorMode } from 'components/RoiCalculatorModal/useRoiCalculatorReducer'
 import { useTranslation } from 'contexts/Localization'

@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import { useModal } from '@secrox/uikit'
+import { useModal } from '@ecrox/uikit'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { fetchAddressResult, setSelectedAddress } from 'state/predictions'
 import AddressInputSelect from 'components/AddressInputSelect'

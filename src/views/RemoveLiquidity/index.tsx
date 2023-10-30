@@ -5,7 +5,7 @@ import { Contract } from '@ethersproject/contracts'
 import { TransactionResponse } from '@ethersproject/providers'
 import { useRouter } from 'next/router'
 import useToast from 'hooks/useToast'
-import { Currency, currencyEquals, ETHER, Percent, WETH } from '@danielvindax/ecroxswap-sdk'
+import { Currency, currencyEquals, ETHER, Percent, WETH } from '@ecrox/ecroxswap-sdk'
 import {
   Button,
   Text,
@@ -18,7 +18,7 @@ import {
   useModal,
   TooltipText,
   useTooltip,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { BigNumber } from '@ethersproject/bignumber'
 import { useTranslation } from 'contexts/Localization'
 import { CHAIN_ID } from 'config/constants/networks'

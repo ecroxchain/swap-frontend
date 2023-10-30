@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { isAfter, differenceInSeconds } from 'date-fns'
-import { Text, Flex, PocketWatchIcon, Skeleton } from '@secrox/uikit'
+import { Text, Flex, PocketWatchIcon, Skeleton } from '@ecrox/uikit'
 import { Auction, AuctionStatus } from 'config/constants/types'
 import getTimePeriods from 'utils/getTimePeriods'
 import { useTranslation } from 'contexts/Localization'

@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Skeleton, Text, CalculateIcon, useModal } from '@secrox/uikit'
+import { Box, Button, Flex, Skeleton, Text, CalculateIcon, useModal } from '@ecrox/uikit'
 import Balance from 'components/Balance'
 import { useTranslation } from 'contexts/Localization'
 import { DeserializedPool, DeserializedLockedVaultUser } from 'state/types'

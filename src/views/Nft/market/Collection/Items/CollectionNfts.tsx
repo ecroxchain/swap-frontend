@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import { BunnyPlaceholderIcon, AutoRenewIcon, Button, Flex, Grid, Text } from '@secrox/uikit'
+import { BunnyPlaceholderIcon, AutoRenewIcon, Button, Flex, Grid, Text } from '@ecrox/uikit'
 import { Collection } from 'state/nftMarket/types'
 import { useTranslation } from 'contexts/Localization'
 import GridPlaceholder from '../../components/GridPlaceholder'

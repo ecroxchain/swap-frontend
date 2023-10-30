@@ -1,5 +1,5 @@
 import { ReactText } from 'react'
-import { Language } from '@secrox/uikit'
+import { Language } from '@ecrox/uikit'
 
 import translations from 'config/localization/translations.json'
 

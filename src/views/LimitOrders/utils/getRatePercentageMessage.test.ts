@@ -1,4 +1,4 @@
-import { JSBI, Price, Token } from '@danielvindax/ecroxswap-sdk'
+import { JSBI, Price, Token } from '@ecrox/ecroxswap-sdk'
 import getRatePercentageDifference from './getRatePercentageDifference'
 import { getRatePercentageMessage, PercentageDirection } from './getRatePercentageMessage'
 

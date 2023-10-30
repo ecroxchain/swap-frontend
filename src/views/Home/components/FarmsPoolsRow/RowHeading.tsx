@@ -1,4 +1,4 @@
-import { Heading, TextProps } from '@secrox/uikit'
+import { Heading, TextProps } from '@ecrox/uikit'
 import useTheme from 'hooks/useTheme'
 
 interface HeadingProps extends TextProps {

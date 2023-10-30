@@ -1,6 +1,6 @@
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Token } from '@ecrox/ecroxswap-sdk'
 import Balance from 'components/Balance'
-import { Flex, Skeleton, Text, TooltipText, useTooltip } from '@secrox/uikit'
+import { Flex, Skeleton, Text, TooltipText, useTooltip } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from 'contexts/Localization'
 import { FC, ReactNode } from 'react'

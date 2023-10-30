@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { TabMenu as UIKitTabMenu, Tab, Flex, VerifiedIcon, CommunityIcon } from '@secrox/uikit'
+import { TabMenu as UIKitTabMenu, Tab, Flex, VerifiedIcon, CommunityIcon } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { ProposalType } from 'state/types'
 

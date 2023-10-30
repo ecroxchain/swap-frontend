@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useWeb3React } from '@web3-react/core'
-import { Box, Flex, Heading, Text, Button, Link, OpenNewIcon } from '@secrox/uikit'
+import { Box, Flex, Heading, Text, Button, Link, OpenNewIcon } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { getRoundResult, Result } from 'state/predictions/helpers'
 import { REWARD_RATE } from 'state/predictions/config'

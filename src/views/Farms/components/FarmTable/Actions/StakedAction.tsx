@@ -1,4 +1,4 @@
-import { AddIcon, Button, IconButton, MinusIcon, Skeleton, Text, useModal } from '@secrox/uikit'
+import { AddIcon, Button, IconButton, MinusIcon, Skeleton, Text, useModal } from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { ToastDescriptionWithTx } from 'components/Toast'

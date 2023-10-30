@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Skeleton, Td, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Flex, Skeleton, Td, useMatchBreakpointsContext } from '@ecrox/uikit'
 
 const GridItem = styled(Flex)`
   align-items: center;

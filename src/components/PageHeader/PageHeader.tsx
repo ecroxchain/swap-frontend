@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box } from '@secrox/uikit'
+import { Box } from '@ecrox/uikit'
 import Container from '../Layout/Container'
 import { PageHeaderProps } from './types'
 

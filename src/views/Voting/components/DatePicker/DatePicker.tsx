@@ -1,5 +1,5 @@
 import ReactDatePicker, { ReactDatePickerProps } from 'react-datepicker'
-import { Input, InputProps } from '@secrox/uikit'
+import { Input, InputProps } from '@ecrox/uikit'
 
 import 'react-datepicker/dist/react-datepicker.css'
 

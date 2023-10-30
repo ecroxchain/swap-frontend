@@ -1,4 +1,4 @@
-import { BoxProps, Text } from '@secrox/uikit'
+import { BoxProps, Text } from '@ecrox/uikit'
 import { NodeRound } from 'state/types'
 import { useTranslation } from 'contexts/Localization'
 import { getRoundPosition } from '../../helpers'

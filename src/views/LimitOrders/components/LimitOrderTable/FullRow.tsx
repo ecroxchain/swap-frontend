@@ -1,6 +1,6 @@
 import React from 'react'
 import { Order } from '@gelatonetwork/limit-orders-lib'
-import { Td, MoreHorizontalIcon, SyncAltIcon, useModal, IconButton } from '@secrox/uikit'
+import { Td, MoreHorizontalIcon, SyncAltIcon, useModal, IconButton } from '@ecrox/uikit'
 
 import useFormattedOrderData from 'views/LimitOrders/hooks/useFormattedOrderData'
 import CurrencyFormat from './CurrencyFormat'

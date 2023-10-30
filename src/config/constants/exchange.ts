@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token } from '@danielvindax/ecroxswap-sdk'
+import { ChainId, JSBI, Percent, Token } from '@ecrox/ecroxswap-sdk'
 import { BigNumber } from '@ethersproject/bignumber'
 import { mainnetTokens, testnetTokens } from './tokens'
 import { ChainTokenList } from './types'

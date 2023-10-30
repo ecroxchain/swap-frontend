@@ -1,5 +1,5 @@
 import { useEffect, memo } from 'react'
-import { useModal } from '@secrox/uikit'
+import { useModal } from '@ecrox/uikit'
 import DisclaimerModal from 'components/DisclaimerModal'
 import { useUserLimitOrderAcceptedWarning } from 'state/user/hooks'
 

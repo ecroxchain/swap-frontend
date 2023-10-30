@@ -7,7 +7,7 @@ import {
   ExpandableLabel,
   ExpandableButton,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { Ifo, PoolIds } from 'config/constants/types'

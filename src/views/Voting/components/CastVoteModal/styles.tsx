@@ -1,4 +1,4 @@
-import { Box, BoxProps } from '@secrox/uikit'
+import { Box, BoxProps } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 export const VotingBox = styled.div`

@@ -1,4 +1,4 @@
-import { Card, Heading, Text } from '@secrox/uikit'
+import { Card, Heading, Text } from '@ecrox/uikit'
 import Page from 'components/Layout/Page'
 import { useTranslation } from 'contexts/Localization'
 import { useMemo } from 'react'

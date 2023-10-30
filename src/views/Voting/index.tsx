@@ -1,4 +1,4 @@
-import { Flex } from '@secrox/uikit'
+import { Flex } from '@ecrox/uikit'
 import { PageMeta } from 'components/Layout/Page'
 import styled from 'styled-components'
 import Footer from './components/Footer'

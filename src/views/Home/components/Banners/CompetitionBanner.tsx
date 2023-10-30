@@ -1,4 +1,4 @@
-import { Flex, ArrowForwardIcon, Button, Text, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Flex, ArrowForwardIcon, Button, Text, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'
 import Image from 'next/image'

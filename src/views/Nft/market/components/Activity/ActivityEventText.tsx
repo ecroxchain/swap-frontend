@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@secrox/uikit'
+import { Text, TextProps } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { MarketEvent } from '../../../../../state/nftMarket/types'
 

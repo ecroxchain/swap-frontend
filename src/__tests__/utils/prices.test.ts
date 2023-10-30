@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@danielvindax/ecroxswap-sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@ecrox/ecroxswap-sdk'
 import { computeTradePriceBreakdown } from 'utils/exchange'
 
 describe('prices', () => {

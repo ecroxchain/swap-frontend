@@ -1,4 +1,4 @@
-import { Box, Button, CakePrice, Flex, Text } from '@secrox/uikit'
+import { Box, Button, CakePrice, Flex, Text } from '@ecrox/uikit'
 import { CurrencyLogo } from 'components/Logo'
 
 const BuyBNB = ({ currency, lpTokenPriceInUsd, buyBNBLabel }) => {

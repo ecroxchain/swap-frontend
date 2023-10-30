@@ -9,7 +9,7 @@ import {
   // TradingViewIcon,
   LineGraphIcon,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { CurrencyLogo, DoubleCurrencyLogo } from 'components/Logo'
 // import { TradingViewLabel } from 'components/TradingView'
 import { useTranslation } from 'contexts/Localization'

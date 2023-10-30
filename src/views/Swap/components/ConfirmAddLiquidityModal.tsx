@@ -1,6 +1,6 @@
 import React, { useCallback } from 'react'
-import { Currency, CurrencyAmount, Fraction, Percent, Token, TokenAmount } from '@danielvindax/ecroxswap-sdk'
-import { Flex, InjectedModalProps, Text } from '@secrox/uikit'
+import { Currency, CurrencyAmount, Fraction, Percent, Token, TokenAmount } from '@ecrox/ecroxswap-sdk'
+import { Flex, InjectedModalProps, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

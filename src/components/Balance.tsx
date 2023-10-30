@@ -1,4 +1,4 @@
-import { Text, TextProps, Skeleton } from '@secrox/uikit'
+import { Text, TextProps, Skeleton } from '@ecrox/uikit'
 import { useEffect, useRef } from 'react'
 import CountUp from 'react-countup'
 import styled, { keyframes } from 'styled-components'

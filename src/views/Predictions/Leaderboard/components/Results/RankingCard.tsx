@@ -12,7 +12,7 @@ import {
   SubMenu,
   SubMenuItem,
   useModal,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { PredictionUser } from 'state/types'
 import { useProfileForAddress } from 'state/profile/hooks'
 import styled from 'styled-components'

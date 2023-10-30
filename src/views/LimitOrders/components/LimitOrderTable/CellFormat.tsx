@@ -1,4 +1,4 @@
-import { Box } from '@secrox/uikit'
+import { Box } from '@ecrox/uikit'
 import { ReactElement } from 'react-markdown'
 
 interface CellFormatProps {

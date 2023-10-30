@@ -2,7 +2,7 @@ import { useMemo } from 'react'
 import { useWeb3React } from '@web3-react/core'
 import { VaultKey } from 'state/types'
 import { useFetchUserPools } from 'views/Migration/hook/V1/Pool/useFetchUserPools'
-import { useMatchBreakpointsContext } from '@secrox/uikit'
+import { useMatchBreakpointsContext } from '@ecrox/uikit'
 import IfoPoolVaultCardDesktop from './IfoPoolVaultCardDesktop'
 import IfoPoolVaultCardMobile from './IfoPoolVaultCardMobile'
 

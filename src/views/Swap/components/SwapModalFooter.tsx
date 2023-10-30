@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import styled from 'styled-components'
-import { Trade, TradeType } from '@danielvindax/ecroxswap-sdk'
-import { Button, Text, AutoRenewIcon } from '@secrox/uikit'
+import { Trade, TradeType } from '@ecrox/ecroxswap-sdk'
+import { Button, Text, AutoRenewIcon } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Field } from 'state/swap/actions'
 import {

@@ -1,6 +1,6 @@
 import { ReactNode } from 'react'
 import tokens from 'config/constants/tokens'
-import { Text, Flex, Box, Skeleton, TooltipText, useTooltip } from '@secrox/uikit'
+import { Text, Flex, Box, Skeleton, TooltipText, useTooltip } from '@ecrox/uikit'
 import { PublicIfoData, WalletIfoData } from 'views/Ifos/types'
 import { useTranslation } from 'contexts/Localization'
 import { Ifo, PoolIds } from 'config/constants/types'

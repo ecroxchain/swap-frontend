@@ -1,4 +1,4 @@
-import { Message, MessageText } from '@secrox/uikit'
+import { Message, MessageText } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const LimitOrderDisclaimer = () => {

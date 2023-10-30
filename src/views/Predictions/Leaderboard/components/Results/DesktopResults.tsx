@@ -1,4 +1,4 @@
-import { Card, Table, Th } from '@secrox/uikit'
+import { Card, Table, Th } from '@ecrox/uikit'
 import { PredictionUser } from 'state/types'
 import Container from 'components/Layout/Container'
 import { useTranslation } from 'contexts/Localization'

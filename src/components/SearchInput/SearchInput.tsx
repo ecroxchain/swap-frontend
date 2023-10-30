@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import { Input } from '@secrox/uikit'
+import { Input } from '@ecrox/uikit'
 import styled from 'styled-components'
 import debounce from 'lodash/debounce'
 import { useTranslation } from 'contexts/Localization'

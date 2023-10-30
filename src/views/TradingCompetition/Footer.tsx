@@ -1,4 +1,4 @@
-import { Flex } from '@secrox/uikit'
+import { Flex } from '@ecrox/uikit'
 import Image from 'next/image'
 import useTheme from 'hooks/useTheme'
 import PageSection from 'components/PageSection'

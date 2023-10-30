@@ -1,4 +1,4 @@
-import { SubMenuItems } from '@secrox/uikit'
+import { SubMenuItems } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { PageMeta } from 'components/Layout/Page'
 import { useRouter } from 'next/router'

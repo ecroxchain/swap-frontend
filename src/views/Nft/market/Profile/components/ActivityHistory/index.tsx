@@ -12,7 +12,7 @@ import {
   Text,
   Th,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { Activity, NftToken } from 'state/nftMarket/types'
 import { useTranslation } from 'contexts/Localization'
 import TableLoader from 'components/TableLoader'

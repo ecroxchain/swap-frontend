@@ -14,7 +14,7 @@ import {
   Text,
   Flex,
   useMatchBreakpointsContext,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { isAddress } from 'utils'
 import { useNftsFromCollection } from 'state/nftMarket/hooks'
 import { fetchNftsFromCollections } from 'state/nftMarket/reducer'

@@ -1,4 +1,4 @@
-import { Flex, Box, Text, Button } from '@secrox/uikit'
+import { Flex, Box, Text, Button } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Divider } from '../shared/styles'
 

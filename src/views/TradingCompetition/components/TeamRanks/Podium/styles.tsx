@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Box, Text } from '@secrox/uikit'
+import { Flex, Box, Text } from '@ecrox/uikit'
 import { TeamLeaderboardProps } from '../../../types'
 
 export interface PodiumProps {

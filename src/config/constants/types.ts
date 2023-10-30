@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js'
-import { Token, ChainId } from '@danielvindax/ecroxswap-sdk'
+import { Token, ChainId } from '@ecrox/ecroxswap-sdk'
 
 // a list of tokens by chain
 export type ChainTokenList = {

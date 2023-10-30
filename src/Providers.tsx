@@ -1,4 +1,4 @@
-import { ModalProvider, light, dark, MatchBreakpointsProvider } from '@secrox/uikit'
+import { ModalProvider, light, dark, MatchBreakpointsProvider } from '@ecrox/uikit'
 import { Web3ReactProvider } from '@web3-react/core'
 import { Provider } from 'react-redux'
 import { SWRConfig } from 'swr'

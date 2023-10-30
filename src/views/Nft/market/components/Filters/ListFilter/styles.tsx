@@ -1,4 +1,4 @@
-import { Flex, Image, Button, IconButton } from '@secrox/uikit'
+import { Flex, Image, Button, IconButton } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 export const StyledItemRow = styled(Flex)`

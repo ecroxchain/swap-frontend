@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import styled from 'styled-components'
-import { Flex, Heading, Card } from '@secrox/uikit'
+import { Flex, Heading, Card } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import Page from 'components/Layout/Page'
 import LineChart from 'views/Info/components/InfoCharts/LineChart'

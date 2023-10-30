@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { StaticImageData } from 'next/dist/client/image'
-import { Flex, Heading, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Flex, Heading, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import Image from 'next/image'
 

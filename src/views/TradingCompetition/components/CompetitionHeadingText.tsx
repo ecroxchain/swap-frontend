@@ -1,4 +1,4 @@
-import { Heading } from '@secrox/uikit'
+import { Heading } from '@ecrox/uikit'
 import styled, { DefaultTheme } from 'styled-components'
 
 const H1SizeStyles = (theme: DefaultTheme) => `

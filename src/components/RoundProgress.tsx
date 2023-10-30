@@ -1,4 +1,4 @@
-import { Progress, ProgressProps } from '@secrox/uikit'
+import { Progress, ProgressProps } from '@ecrox/uikit'
 
 interface RoundProgressProps extends ProgressProps {
   lockTimestamp: number

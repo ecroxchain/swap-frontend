@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router'
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 import { Collection } from 'state/nftMarket/types'
 import { formatNumber } from 'utils/formatBalance'
 import { useTranslation } from 'contexts/Localization'

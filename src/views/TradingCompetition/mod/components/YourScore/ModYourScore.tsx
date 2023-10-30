@@ -1,4 +1,4 @@
-import { Skeleton, Heading, Text } from '@secrox/uikit'
+import { Skeleton, Heading, Text } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import ScoreHeader from '../../../components/YourScore/ScoreHeader'

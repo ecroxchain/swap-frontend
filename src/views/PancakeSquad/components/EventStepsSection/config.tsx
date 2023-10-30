@@ -1,4 +1,4 @@
-import { Button } from '@secrox/uikit'
+import { Button } from '@ecrox/uikit'
 import { SaleStatusEnum, UserStatusEnum } from 'views/PancakeSquad/types'
 import ActivateProfileButton from '../Buttons/ActivateProfile'
 import BuyTicketsButtons from '../Buttons/BuyTickets'

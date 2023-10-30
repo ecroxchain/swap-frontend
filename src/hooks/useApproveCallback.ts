@@ -1,6 +1,6 @@
 import { MaxUint256 } from '@ethersproject/constants'
 import { TransactionResponse } from '@ethersproject/providers'
-import { Trade, TokenAmount, CurrencyAmount, ETHER } from '@danielvindax/ecroxswap-sdk'
+import { Trade, TokenAmount, CurrencyAmount, ETHER } from '@ecrox/ecroxswap-sdk'
 import { CHAIN_ID } from 'config/constants/networks'
 import { useCallback, useMemo } from 'react'
 import { logError } from 'utils/sentry'

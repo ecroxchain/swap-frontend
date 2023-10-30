@@ -1,4 +1,4 @@
-import { ResetCSS } from '@secrox/uikit'
+import { ResetCSS } from '@ecrox/uikit'
 import Script from 'next/script'
 import dynamic from 'next/dynamic'
 import BigNumber from 'bignumber.js'

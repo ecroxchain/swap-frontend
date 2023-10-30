@@ -1,5 +1,5 @@
-import { Price } from '@danielvindax/ecroxswap-sdk'
-import { Text, AutoRenewIcon } from '@secrox/uikit'
+import { Price } from '@ecrox/ecroxswap-sdk'
+import { Text, AutoRenewIcon } from '@ecrox/uikit'
 import { StyledBalanceMaxMini } from './styleds'
 
 interface TradePriceProps {

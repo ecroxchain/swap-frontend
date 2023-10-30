@@ -1,4 +1,4 @@
-import { Heading, Flex, Text, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Heading, Flex, Text, useMatchBreakpointsContext } from '@ecrox/uikit'
 
 const StatCardContent: React.FC<{ headingText: string; bodyText: string; highlightColor: string }> = ({
   headingText,

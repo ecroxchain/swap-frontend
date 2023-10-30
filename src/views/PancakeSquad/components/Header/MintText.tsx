@@ -1,4 +1,4 @@
-import { Flex, lightColors, Text } from '@secrox/uikit'
+import { Flex, lightColors, Text } from '@ecrox/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 import { SaleStatusEnum, UserStatusEnum } from '../../types'

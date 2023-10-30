@@ -1,4 +1,4 @@
-import { Grid, GridProps } from '@secrox/uikit'
+import { Grid, GridProps } from '@ecrox/uikit'
 
 const FilterFooter: React.FC<GridProps> = ({ children, ...props }) => (
   <Grid

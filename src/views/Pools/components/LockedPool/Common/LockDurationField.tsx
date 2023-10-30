@@ -1,4 +1,4 @@
-import { Text, Flex, Button, Input, Box } from '@secrox/uikit'
+import { Text, Flex, Button, Input, Box } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import _toNumber from 'lodash/toNumber'

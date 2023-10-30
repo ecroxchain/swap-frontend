@@ -1,6 +1,6 @@
 import { Fragment, memo } from 'react'
-import { Trade } from '@danielvindax/ecroxswap-sdk'
-import { Text, Flex, ChevronRightIcon } from '@secrox/uikit'
+import { Trade } from '@ecrox/ecroxswap-sdk'
+import { Text, Flex, ChevronRightIcon } from '@ecrox/uikit'
 import { unwrappedToken } from 'utils/wrappedCurrency'
 
 export default memo(function SwapRoute({ trade }: { trade: Trade }) {

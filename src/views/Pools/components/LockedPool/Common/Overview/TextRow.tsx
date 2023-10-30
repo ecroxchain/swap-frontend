@@ -1,4 +1,4 @@
-import { Text, Flex } from '@secrox/uikit'
+import { Text, Flex } from '@ecrox/uikit'
 import isUndefinedOrNull from 'utils/isUndefinedOrNull'
 import CrossText from './CrossText'
 

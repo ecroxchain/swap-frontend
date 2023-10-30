@@ -1,4 +1,4 @@
-import { Box, Button, Text, Heading, ProposalIcon, Flex } from '@secrox/uikit'
+import { Box, Button, Text, Heading, ProposalIcon, Flex } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import Link from 'next/link'

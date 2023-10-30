@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Box } from '@secrox/uikit'
+import { Flex, Box } from '@ecrox/uikit'
 
 export const CompetitionPage = styled.div`
   min-height: calc(100vh - 64px);

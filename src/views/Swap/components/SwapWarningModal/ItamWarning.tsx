@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Text, Link } from '@secrox/uikit'
+import { Text, Link } from '@ecrox/uikit'
 
 const ItamWarning = () => {
   const { t } = useTranslation()

@@ -1,6 +1,6 @@
 import { useEffect, useState, createElement } from 'react'
 import styled from 'styled-components'
-import { Flex, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Flex, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useDelayedUnmount from 'hooks/useDelayedUnmount'
 import { useFarmUser } from 'state/farms/hooks'

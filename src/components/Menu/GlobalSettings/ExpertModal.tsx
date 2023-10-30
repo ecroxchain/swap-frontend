@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Button, Text, Flex, Message, Modal, InjectedModalProps, Checkbox } from '@secrox/uikit'
+import { Button, Text, Flex, Message, Modal, InjectedModalProps, Checkbox } from '@ecrox/uikit'
 import { useExpertModeManager } from 'state/user/hooks'
 import { useTranslation } from 'contexts/Localization'
 

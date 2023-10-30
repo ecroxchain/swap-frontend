@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef } from 'react'
 import { CSSTransition } from 'react-transition-group'
 import styled from 'styled-components'
-import { Alert, alertVariants } from '@secrox/uikit'
+import { Alert, alertVariants } from '@ecrox/uikit'
 import { ToastProps, types } from './types'
 
 const alertTypeMap = {

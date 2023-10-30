@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Trade } from '@danielvindax/ecroxswap-sdk'
+import { Currency, CurrencyAmount, Trade } from '@ecrox/ecroxswap-sdk'
 import { useWeb3React } from '@web3-react/core'
 import { ParsedUrlQuery } from 'querystring'
 import { useEffect, useMemo, useState } from 'react'

@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Text } from '@secrox/uikit'
+import { Box, Button, Flex, Text } from '@ecrox/uikit'
 import { useAppDispatch } from 'state'
 import { isTransactionRecent, useAllTransactions } from 'state/transactions/hooks'
 import { useTranslation } from 'contexts/Localization'

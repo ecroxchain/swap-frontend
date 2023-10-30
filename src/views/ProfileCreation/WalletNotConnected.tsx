@@ -1,4 +1,4 @@
-import { Heading, Text } from '@secrox/uikit'
+import { Heading, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 

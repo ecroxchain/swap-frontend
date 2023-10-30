@@ -1,4 +1,4 @@
-import { Currency } from '@danielvindax/ecroxswap-sdk'
+import { Currency } from '@ecrox/ecroxswap-sdk'
 import styled from 'styled-components'
 import CurrencyLogo from './CurrencyLogo'
 

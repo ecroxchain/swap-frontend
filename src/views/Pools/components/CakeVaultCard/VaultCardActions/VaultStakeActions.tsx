@@ -1,4 +1,4 @@
-import { Flex, Skeleton, useModal } from '@secrox/uikit'
+import { Flex, Skeleton, useModal } from '@ecrox/uikit'
 import BigNumber from 'bignumber.js'
 import { DeserializedPool } from 'state/types'
 import NotEnoughTokensModal from '../../PoolCard/Modals/NotEnoughTokensModal'

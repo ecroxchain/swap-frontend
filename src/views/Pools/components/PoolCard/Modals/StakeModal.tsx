@@ -14,7 +14,7 @@ import {
   CalculateIcon,
   IconButton,
   Skeleton,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import useToast from 'hooks/useToast'

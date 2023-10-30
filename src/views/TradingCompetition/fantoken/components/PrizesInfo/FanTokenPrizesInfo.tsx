@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex } from '@secrox/uikit'
+import { Flex } from '@ecrox/uikit'
 import FanTokenPrizesCard from './FanTokenPrizesCard'
 import FanTokenPrizesText from './FanTokenPrizesText'
 

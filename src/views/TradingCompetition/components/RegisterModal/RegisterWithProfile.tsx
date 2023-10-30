@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { Button, Heading, Text, Flex, Checkbox, AutoRenewIcon } from '@secrox/uikit'
+import { Button, Heading, Text, Flex, Checkbox, AutoRenewIcon } from '@ecrox/uikit'
 import { useTradingCompetitionContractMoD } from 'hooks/useContract'
 import { useTranslation } from 'contexts/Localization'
 import { useCallWithGasPrice } from 'hooks/useCallWithGasPrice'

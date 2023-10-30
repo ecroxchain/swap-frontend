@@ -1,4 +1,4 @@
-import { ErrorIcon, Flex, Text } from '@secrox/uikit'
+import { ErrorIcon, Flex, Text } from '@ecrox/uikit'
 import { AutoColumn } from 'components/Layout/Column'
 import styled, { css } from 'styled-components'
 

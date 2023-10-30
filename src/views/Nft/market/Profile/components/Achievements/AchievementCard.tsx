@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, PrizeIcon, Text } from '@secrox/uikit'
+import { Flex, PrizeIcon, Text } from '@ecrox/uikit'
 import { Achievement } from 'state/types'
 import AchievementAvatar from './AchievementAvatar'
 import AchievementTitle from './AchievementTitle'

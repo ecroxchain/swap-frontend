@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import styled from 'styled-components'
-import { Text, Flex, CardBody, CardFooter, Button, AddIcon } from '@secrox/uikit'
+import { Text, Flex, CardBody, CardFooter, Button, AddIcon } from '@ecrox/uikit'
 import Link from 'next/link'
 import { useTranslation } from 'contexts/Localization'
 import { useWeb3React } from '@web3-react/core'

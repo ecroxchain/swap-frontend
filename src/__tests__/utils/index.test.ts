@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from '@danielvindax/ecroxswap-sdk'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from '@ecrox/ecroxswap-sdk'
 import { getBscScanLink, isAddress, calculateGasMargin } from 'utils'
 import { calculateSlippageAmount, basisPointsToPercent } from 'utils/exchange'
 

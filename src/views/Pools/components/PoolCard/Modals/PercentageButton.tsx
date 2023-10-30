@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Button } from '@secrox/uikit'
+import { Button } from '@ecrox/uikit'
 
 interface PercentageButtonProps {
   onClick: () => void

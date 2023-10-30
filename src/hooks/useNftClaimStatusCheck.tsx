@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { useModal } from '@secrox/uikit'
+import { useModal } from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { getBunnySpecialXmasContract } from 'utils/contractHelpers'
 import { simpleRpcProvider } from 'utils/providers'

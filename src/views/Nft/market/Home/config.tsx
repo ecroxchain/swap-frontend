@@ -1,4 +1,4 @@
-import { LinkExternal } from '@secrox/uikit'
+import { LinkExternal } from '@ecrox/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 const config = (t: ContextApi['t']) => {

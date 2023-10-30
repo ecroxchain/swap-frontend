@@ -1,4 +1,4 @@
-import { Flex, Text, TooltipText, useTooltip } from '@secrox/uikit'
+import { Flex, Text, TooltipText, useTooltip } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useWeb3React } from '@web3-react/core'
 import useWithdrawalFeeTimer from 'views/Pools/hooks/useWithdrawalFeeTimer'

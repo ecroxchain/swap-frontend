@@ -1,4 +1,4 @@
-import { Text, Flex, Message, Box, HelpIcon } from '@secrox/uikit'
+import { Text, Flex, Message, Box, HelpIcon } from '@ecrox/uikit'
 import { Auction, ConnectedBidder } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'
 

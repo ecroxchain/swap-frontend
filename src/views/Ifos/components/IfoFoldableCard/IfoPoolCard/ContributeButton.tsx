@@ -1,6 +1,6 @@
 import { useCurrentBlock } from 'state/block/hooks'
 import BigNumber from 'bignumber.js'
-import { Button, useModal } from '@secrox/uikit'
+import { Button, useModal } from '@ecrox/uikit'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { Ifo, PoolIds } from 'config/constants/types'
 import { WalletIfoData, PublicIfoData } from 'views/Ifos/types'

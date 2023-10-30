@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Skeleton } from '@secrox/uikit'
+import { Skeleton } from '@ecrox/uikit'
 
 export interface EarnedProps {
   earnings: number

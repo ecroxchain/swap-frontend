@@ -1,7 +1,7 @@
 import { useState, useCallback } from 'react'
 import { differenceInSeconds } from 'date-fns'
 import { convertTimeToSeconds } from 'utils/timeHelper'
-import { Modal, Box, MessageText, Message, Checkbox, Flex, Text } from '@secrox/uikit'
+import { Modal, Box, MessageText, Message, Checkbox, Flex, Text } from '@ecrox/uikit'
 import _noop from 'lodash/noop'
 import { useTranslation } from 'contexts/Localization'
 import BigNumber from 'bignumber.js'

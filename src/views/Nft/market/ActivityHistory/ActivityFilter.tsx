@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Button, Flex, IconButton, CloseIcon } from '@secrox/uikit'
+import { Box, Button, Flex, IconButton, CloseIcon } from '@ecrox/uikit'
 import { useAppDispatch } from 'state'
 import { addActivityTypeFilters, removeActivityTypeFilters } from 'state/nftMarket/reducer'
 import { useGetNftActivityFilters } from 'state/nftMarket/hooks'

@@ -1,4 +1,4 @@
-import { Box } from '@secrox/uikit'
+import { Box } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 const IfoLayout = styled(Box)`

@@ -1,4 +1,4 @@
-import { Flex, lightColors } from '@secrox/uikit'
+import { Flex, lightColors } from '@ecrox/uikit'
 import styled, { keyframes } from 'styled-components'
 
 const flyingAnim = () => keyframes`

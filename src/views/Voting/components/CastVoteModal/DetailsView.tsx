@@ -1,4 +1,4 @@
-import { Flex, LinkExternal, Text } from '@secrox/uikit'
+import { Flex, LinkExternal, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
 import { getBscScanLink } from 'utils'

@@ -1,4 +1,4 @@
-import { Button, Card, CardBody, Flex, Heading, Text } from '@secrox/uikit'
+import { Button, Card, CardBody, Flex, Heading, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import Link from 'next/link'
 

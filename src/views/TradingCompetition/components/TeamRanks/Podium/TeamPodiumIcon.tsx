@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Image, Skeleton } from '@secrox/uikit'
+import { Flex, Image, Skeleton } from '@ecrox/uikit'
 import Sticker from '../../Sticker'
 
 const Wrapper = styled(Flex)<{ imageSize?: number }>`

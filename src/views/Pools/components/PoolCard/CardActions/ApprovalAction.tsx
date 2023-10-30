@@ -1,4 +1,4 @@
-import { Button, AutoRenewIcon, Skeleton } from '@secrox/uikit'
+import { Button, AutoRenewIcon, Skeleton } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useERC20 } from 'hooks/useContract'
 import { DeserializedPool } from 'state/types'

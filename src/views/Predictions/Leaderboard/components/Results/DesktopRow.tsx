@@ -1,4 +1,4 @@
-import { Td, Text } from '@secrox/uikit'
+import { Td, Text } from '@ecrox/uikit'
 import { PredictionUser } from 'state/types'
 import ResultAvatar from './ResultAvatar'
 import { NetWinnings } from './styles'

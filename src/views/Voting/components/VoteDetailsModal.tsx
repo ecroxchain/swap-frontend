@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Box, Flex, InjectedModalProps, Modal, Button, Spinner } from '@secrox/uikit'
+import { Box, Flex, InjectedModalProps, Modal, Button, Spinner } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import useGetVotingPower from '../hooks/useGetVotingPower'

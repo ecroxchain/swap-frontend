@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Button, Flex, Heading, LinkExternal } from '@secrox/uikit'
+import { Box, Button, Flex, Heading, LinkExternal } from '@ecrox/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'

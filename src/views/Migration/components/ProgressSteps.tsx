@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 
 const Circle = styled.div`
   display: flex;

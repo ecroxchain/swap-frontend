@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 
 const RugPullWarning = () => {
   const { t } = useTranslation()

@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Text, Link, LinkExternal } from '@secrox/uikit'
+import { Text, Link, LinkExternal } from '@ecrox/uikit'
 
 const BTTWarning = () => {
   const { t } = useTranslation()

@@ -1,4 +1,4 @@
-import { AutoRenewIcon, Flex, Heading } from '@secrox/uikit'
+import { AutoRenewIcon, Flex, Heading } from '@ecrox/uikit'
 import orderBy from 'lodash/orderBy'
 import useSWR from 'swr'
 import Page from 'components/Layout/Page'

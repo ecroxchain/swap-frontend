@@ -1,4 +1,4 @@
-import { Token, ChainId } from '@danielvindax/ecroxswap-sdk'
+import { Token, ChainId } from '@ecrox/ecroxswap-sdk'
 import tokens from './tokens'
 import farms from './farms'
 import { Ifo } from './types'

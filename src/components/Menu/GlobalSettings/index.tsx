@@ -1,4 +1,4 @@
-import { Flex, IconButton, CogIcon, useModal } from '@secrox/uikit'
+import { Flex, IconButton, CogIcon, useModal } from '@ecrox/uikit'
 import SettingsModal from './SettingsModal'
 
 type Props = {

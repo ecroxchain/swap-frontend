@@ -1,5 +1,5 @@
 import { ReactNode } from 'react'
-import { Text, Heading, Card, CardHeader, CardBody, Box, BoxProps } from '@secrox/uikit'
+import { Text, Heading, Card, CardHeader, CardBody, Box, BoxProps } from '@ecrox/uikit'
 import FoldableText from './FoldableText'
 
 interface Props extends BoxProps {

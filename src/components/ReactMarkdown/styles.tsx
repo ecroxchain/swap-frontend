@@ -1,4 +1,4 @@
-import { Heading, Text } from '@secrox/uikit'
+import { Heading, Text } from '@ecrox/uikit'
 import { NormalComponents, SpecialComponents } from 'react-markdown/src/ast-to-react'
 import styled from 'styled-components'
 

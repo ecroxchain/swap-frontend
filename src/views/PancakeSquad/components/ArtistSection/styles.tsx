@@ -1,4 +1,4 @@
-import { Flex, Link } from '@secrox/uikit'
+import { Flex, Link } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 export const StyledArtistSectionContainer = styled(Flex)<{ $isDark: boolean }>`

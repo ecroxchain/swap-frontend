@@ -1,4 +1,4 @@
-import { Box, BoxProps, Flex } from '@secrox/uikit'
+import { Box, BoxProps, Flex } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 const Wrapper = styled(Flex)`

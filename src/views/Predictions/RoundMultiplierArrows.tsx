@@ -1,5 +1,5 @@
 import { useTheme } from 'styled-components'
-import { Svg, SvgProps } from '@secrox/uikit'
+import { Svg, SvgProps } from '@ecrox/uikit'
 
 interface MultiplierProps extends SvgProps {
   isActive: boolean

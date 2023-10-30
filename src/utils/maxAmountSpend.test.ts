@@ -1,4 +1,4 @@
-import { CurrencyAmount, JSBI } from '@danielvindax/ecroxswap-sdk'
+import { CurrencyAmount, JSBI } from '@ecrox/ecroxswap-sdk'
 import { maxAmountSpend } from './maxAmountSpend'
 
 describe('maxAmountSpend', () => {

@@ -1,4 +1,4 @@
-import { TooltipText, useTooltip } from '@secrox/uikit'
+import { TooltipText, useTooltip } from '@ecrox/uikit'
 import { DeserializedPool } from 'state/types'
 import Balance from 'components/Balance'
 import AutoEarningsBreakdown from '../AutoEarningsBreakdown'

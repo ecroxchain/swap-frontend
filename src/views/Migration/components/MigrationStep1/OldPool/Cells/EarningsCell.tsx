@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Flex, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Text, Flex, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { DeserializedPool } from 'state/types'
 import BigNumber from 'bignumber.js'
 import { BIG_ZERO } from 'utils/bigNumber'

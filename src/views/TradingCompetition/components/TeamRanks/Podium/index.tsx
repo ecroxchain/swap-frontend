@@ -1,6 +1,6 @@
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
-import { Flex, Box, Text, Skeleton } from '@secrox/uikit'
+import { Flex, Box, Text, Skeleton } from '@ecrox/uikit'
 import TeamPodiumIcon from './TeamPodiumIcon'
 import { PodiumBase } from '../../../svgs'
 import { localiseTradingVolume } from '../../../helpers'

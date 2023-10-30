@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ChevronDownIcon, useMatchBreakpointsContext } from '@secrox/uikit'
+import { ChevronDownIcon, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface DetailsProps {

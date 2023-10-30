@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Flex, useModal, CalculateIcon, Skeleton, FlexProps, Button } from '@secrox/uikit'
+import { Text, Flex, useModal, CalculateIcon, Skeleton, FlexProps, Button } from '@ecrox/uikit'
 import RoiCalculatorModal from 'components/RoiCalculatorModal'
 import { BalanceWithLoading } from 'components/Balance'
 import { DeserializedPool } from 'state/types'

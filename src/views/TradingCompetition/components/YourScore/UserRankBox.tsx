@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, FlexProps } from '@secrox/uikit'
+import { Flex, Text, FlexProps } from '@ecrox/uikit'
 
 interface UserRankProps extends FlexProps {
   title?: string

@@ -1,4 +1,4 @@
-import { Box, ButtonMenu, ButtonMenuItem, Flex, Text } from '@secrox/uikit'
+import { Box, ButtonMenu, ButtonMenuItem, Flex, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useState, memo } from 'react'
 import { useFetchPairPrices } from 'state/swap/hooks'

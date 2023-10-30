@@ -1,4 +1,4 @@
-import { Flex, Heading, Skeleton, Text } from '@secrox/uikit'
+import { Flex, Heading, Skeleton, Text } from '@ecrox/uikit'
 import Balance from 'components/Balance'
 import cakeAbi from 'config/abi/cake.json'
 import tokens from 'config/constants/tokens'

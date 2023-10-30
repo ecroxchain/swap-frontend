@@ -1,4 +1,4 @@
-import { Flex, Text } from '@secrox/uikit'
+import { Flex, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import isEmpty from 'lodash/isEmpty'
 import { useGetNftActivityFilters } from 'state/nftMarket/hooks'

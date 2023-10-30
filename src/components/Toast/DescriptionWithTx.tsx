@@ -1,4 +1,4 @@
-import { Link, Text } from '@secrox/uikit'
+import { Link, Text } from '@ecrox/uikit'
 import { getBscScanLink } from 'utils'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from 'contexts/Localization'

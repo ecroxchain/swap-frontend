@@ -1,4 +1,4 @@
-import { Flex, FlexProps, Link, Text, LinkProps } from '@secrox/uikit'
+import { Flex, FlexProps, Link, Text, LinkProps } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 export const ChartByLabel = ({

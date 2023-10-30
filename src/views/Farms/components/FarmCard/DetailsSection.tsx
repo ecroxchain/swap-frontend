@@ -1,6 +1,6 @@
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
-import { Text, Flex, LinkExternal, Skeleton } from '@secrox/uikit'
+import { Text, Flex, LinkExternal, Skeleton } from '@ecrox/uikit'
 
 export interface ExpandableSectionProps {
   bscScanAddress?: string

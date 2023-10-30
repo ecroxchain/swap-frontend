@@ -1,4 +1,4 @@
-import { ArrowForwardIcon, Box, IconButton, Flex, Text } from '@secrox/uikit'
+import { ArrowForwardIcon, Box, IconButton, Flex, Text } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { Proposal } from 'state/types'

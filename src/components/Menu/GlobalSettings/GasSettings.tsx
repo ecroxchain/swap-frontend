@@ -1,4 +1,4 @@
-import { Flex, Button, Text } from '@secrox/uikit'
+import { Flex, Button, Text } from '@ecrox/uikit'
 import QuestionHelper from 'components/QuestionHelper'
 import { useTranslation } from 'contexts/Localization'
 import { useGasPriceManager } from 'state/user/hooks'

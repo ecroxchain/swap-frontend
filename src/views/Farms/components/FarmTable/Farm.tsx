@@ -1,8 +1,8 @@
 import styled from 'styled-components'
 import { useFarmUser } from 'state/farms/hooks'
 import { useTranslation } from 'contexts/Localization'
-import { Text } from '@secrox/uikit'
-import { Token } from '@danielvindax/ecroxswap-sdk'
+import { Text } from '@ecrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { TokenPairImage } from 'components/TokenImage'
 

@@ -1,4 +1,4 @@
-import { Box, FlexProps, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Box, FlexProps, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import Script from 'next/script'
 import { useEffect, useRef } from 'react'

@@ -1,4 +1,4 @@
-import { Flex, UserMenuItem, WarningIcon } from '@secrox/uikit'
+import { Flex, UserMenuItem, WarningIcon } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useGetBnbBalance } from 'hooks/useTokenBalance'
 import { FetchStatus } from 'config/constants/types'

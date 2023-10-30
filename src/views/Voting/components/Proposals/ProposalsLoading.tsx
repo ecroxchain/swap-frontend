@@ -1,4 +1,4 @@
-import { Box, Flex, Skeleton } from '@secrox/uikit'
+import { Box, Flex, Skeleton } from '@ecrox/uikit'
 import styled from 'styled-components'
 import times from 'lodash/times'
 import { PROPOSALS_TO_SHOW } from '../../config'

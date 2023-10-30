@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Table, Th, Text } from '@secrox/uikit'
+import { Table, Th, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import FullRow from './FullRow'
 

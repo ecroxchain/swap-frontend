@@ -1,4 +1,4 @@
-import { Button, Card, CardBody, CardHeader, Heading } from '@secrox/uikit'
+import { Button, Card, CardBody, CardHeader, Heading } from '@ecrox/uikit'
 import uniqueId from 'lodash/uniqueId'
 import { useTranslation } from 'contexts/Localization'
 import Choice from './Choice'

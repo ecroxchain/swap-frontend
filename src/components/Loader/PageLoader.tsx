@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Spinner } from '@secrox/uikit'
+import { Spinner } from '@ecrox/uikit'
 import Page from '../Layout/Page'
 
 const Wrapper = styled(Page)`

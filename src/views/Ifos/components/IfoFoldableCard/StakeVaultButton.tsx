@@ -1,4 +1,4 @@
-import { Button } from '@secrox/uikit'
+import { Button } from '@ecrox/uikit'
 
 import { useTranslation } from 'contexts/Localization'
 

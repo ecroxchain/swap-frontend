@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
-import { useTable, ColumnType, Flex, Spinner } from '@secrox/uikit'
+import { useTable, ColumnType, Flex, Spinner } from '@ecrox/uikit'
 import TableHeader from '../../MigrationTable/TableHeader'
 import EmptyText from '../../MigrationTable/EmptyText'
 import TableStyle from '../../MigrationTable/StyledTable'

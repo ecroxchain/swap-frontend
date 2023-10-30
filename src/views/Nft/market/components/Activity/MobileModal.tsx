@@ -1,5 +1,5 @@
-import { InjectedModalProps, Modal, Flex, Text, Button, Link, BinanceIcon, Box } from '@secrox/uikit'
-import { Price } from '@danielvindax/ecroxswap-sdk'
+import { InjectedModalProps, Modal, Flex, Text, Button, Link, BinanceIcon, Box } from '@ecrox/uikit'
+import { Price } from '@ecrox/ecroxswap-sdk'
 import useTheme from 'hooks/useTheme'
 import { Activity, NftToken } from 'state/nftMarket/types'
 import { LightGreyCard } from 'components/Card'

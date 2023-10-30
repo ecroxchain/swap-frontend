@@ -1,4 +1,4 @@
-import { Box, BoxProps } from '@secrox/uikit'
+import { Box, BoxProps } from '@ecrox/uikit'
 import { FC, useEffect, useRef } from 'react'
 import useIntersectionObserver from 'hooks/useIntersectionObserver'
 import { NftToken } from 'state/nftMarket/types'

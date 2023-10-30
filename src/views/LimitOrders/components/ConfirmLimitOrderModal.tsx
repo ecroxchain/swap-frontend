@@ -1,4 +1,4 @@
-import { Currency } from '@danielvindax/ecroxswap-sdk'
+import { Currency } from '@ecrox/ecroxswap-sdk'
 import {
   ArrowDownIcon,
   Button,
@@ -9,7 +9,7 @@ import {
   Modal,
   Spinner,
   Text,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { CurrencyLogo } from 'components/Logo'
 import { TransactionErrorContent, TransactionSubmittedContent } from 'components/TransactionConfirmationModal'
 import { useTranslation } from 'contexts/Localization'

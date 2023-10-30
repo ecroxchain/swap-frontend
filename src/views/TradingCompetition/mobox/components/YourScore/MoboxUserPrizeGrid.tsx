@@ -1,4 +1,4 @@
-import { BlockIcon, CheckmarkCircleIcon, Flex, Text } from '@secrox/uikit'
+import { BlockIcon, CheckmarkCircleIcon, Flex, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 import styled from 'styled-components'

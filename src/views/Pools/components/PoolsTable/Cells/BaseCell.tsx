@@ -1,4 +1,4 @@
-import { Flex, Text } from '@secrox/uikit'
+import { Flex, Text } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 const BaseCell = styled(Flex)`

@@ -1,4 +1,4 @@
-import { JSBI, Price, Token, Percent } from '@danielvindax/ecroxswap-sdk'
+import { JSBI, Price, Token, Percent } from '@ecrox/ecroxswap-sdk'
 import getRatePercentageDifference from './getRatePercentageDifference'
 
 const SECROX = new Token(988207, '0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8', 18, 'SECROX', 'SECROX Token')

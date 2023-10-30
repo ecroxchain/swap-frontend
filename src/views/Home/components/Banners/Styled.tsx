@@ -1,4 +1,4 @@
-import { Flex, Heading } from '@secrox/uikit'
+import { Flex, Heading } from '@ecrox/uikit'
 import styled from 'styled-components'
 
 export const StyledSubheading = styled(Heading)`

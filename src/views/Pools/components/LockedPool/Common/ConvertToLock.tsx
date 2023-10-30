@@ -1,5 +1,5 @@
-import { Token } from '@danielvindax/ecroxswap-sdk'
-import { Flex, Message, MessageText, useMatchBreakpointsContext } from '@secrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
+import { Flex, Message, MessageText, useMatchBreakpointsContext } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { memo } from 'react'
 import { useVaultApy } from 'hooks/useVaultApy'

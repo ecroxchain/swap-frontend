@@ -1,4 +1,4 @@
-import { Flex, FlexProps, PrizeIcon, Text } from '@secrox/uikit'
+import { Flex, FlexProps, PrizeIcon, Text } from '@ecrox/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface PointsLabelProps extends FlexProps {

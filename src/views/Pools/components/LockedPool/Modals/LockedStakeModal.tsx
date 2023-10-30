@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Modal, Box } from '@secrox/uikit'
+import { Modal, Box } from '@ecrox/uikit'
 import useTheme from 'hooks/useTheme'
 import { useBUSDCakeAmount } from 'hooks/useBUSDPrice'
 import { useTranslation } from 'contexts/Localization'

@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { Token } from '@danielvindax/ecroxswap-sdk'
-import { ButtonMenu, ButtonMenuItem, ModalBody } from '@secrox/uikit'
+import { Token } from '@ecrox/ecroxswap-sdk'
+import { ButtonMenu, ButtonMenuItem, ModalBody } from '@ecrox/uikit'
 import styled from 'styled-components'
 import { TokenList } from '@uniswap/token-lists'
 import { useTranslation } from 'contexts/Localization'

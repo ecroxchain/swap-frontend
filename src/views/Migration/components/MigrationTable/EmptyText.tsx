@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@secrox/uikit'
+import { Text } from '@ecrox/uikit'
 
 export interface EmptyTextProps {
   text: string

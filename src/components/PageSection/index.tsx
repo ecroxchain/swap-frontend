@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { BoxProps, Box, Flex, FlexProps } from '@secrox/uikit'
+import { BoxProps, Box, Flex, FlexProps } from '@ecrox/uikit'
 import Container from 'components/Layout/Container'
 import CurvedDivider from './CurvedDivider'
 import { ClipFill, DividerFill } from './types'

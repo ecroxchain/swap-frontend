@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
-import { Trade, TradeType } from '@danielvindax/ecroxswap-sdk'
-import { Button, Text, ErrorIcon, ArrowDownIcon } from '@secrox/uikit'
+import { Trade, TradeType } from '@ecrox/ecroxswap-sdk'
+import { Button, Text, ErrorIcon, ArrowDownIcon } from '@ecrox/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from 'contexts/Localization'
 import { computeTradePriceBreakdown, warningSeverity, computeSlippageAdjustedAmounts } from 'utils/exchange'

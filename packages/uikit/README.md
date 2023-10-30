@@ -1,12 +1,12 @@
 # SECROX UIkit
 
-[![Version](https://img.shields.io/npm/v/@secrox/uikit)](https://www.npmjs.com/package/@secrox/uikit) [![Size](https://img.shields.io/bundlephobia/min/@secrox/uikit)](https://www.npmjs.com/package/@secrox/uikit)
+[![Version](https://img.shields.io/npm/v/@ecrox/uikit)](https://www.npmjs.com/package/@ecrox/uikit) [![Size](https://img.shields.io/bundlephobia/min/@ecrox/uikit)](https://www.npmjs.com/package/@ecrox/uikit)
 
 SECROX UIkit is a set of React components and hooks used to build pages on SECROX's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
-`yarn add @secrox/uikit`
+`yarn add @ecrox/uikit`
 
 ***Note**: In case you want to use the older version of the SECROX UIkit, you should install @secrox-libs/uikit, instead, but we recommend using the latest version of the UIkit.*
 
@@ -19,7 +19,7 @@ Before using SECROX UIkit, you need to provide the theme file to styled-componen
 
 ```
 import { ThemeProvider } from 'styled-components'
-import { light, dark } from '@secrox/uikit'
+import { light, dark } from '@ecrox/uikit'
 ...
 <ThemeProvider theme={isDark}>...</ThemeProvider>
 ```
@@ -29,7 +29,7 @@ import { light, dark } from '@secrox/uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import { ResetCSS } from '@secrox/uikit'
+import { ResetCSS } from '@ecrox/uikit'
 ...
 <ResetCSS />
 ```

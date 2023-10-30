@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card } from '@secrox/uikit'
+import { Card } from '@ecrox/uikit'
 
 export const StyledCard = styled(Card)<{ isFinished?: boolean }>`
   min-width: 280px;

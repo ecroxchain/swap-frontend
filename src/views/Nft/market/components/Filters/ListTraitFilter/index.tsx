@@ -12,7 +12,7 @@ import {
   InputGroup,
   SearchIcon,
   CloseIcon,
-} from '@secrox/uikit'
+} from '@ecrox/uikit'
 import { FetchStatus } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'
 import orderBy from 'lodash/orderBy'
