@@ -35,6 +35,14 @@
       "logoURI": "http://ecroxswap.com/images/tokens/0x45C3dEd9650b98d53ec27DA474D292cdF7B5F738.png"
     },
     {
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0x196d3f09A293e0ee4aD4e291cC142908aA02303d",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "http://ecroxswap.com/images/tokens/0x196d3f09A293e0ee4aD4e291cC142908aA02303d.png"
+    },
+    {
       "name": "SECROX",
       "symbol": "SECROX",
       "address": "0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8",
@@ -43,12 +51,244 @@
       "logoURI": "http://ecroxswap.com/images/tokens/0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8.png"
     },
     {
-      "name": "Elite Coin",
-      "symbol": "ELITE",
-      "address": "0x7a64822bc0d058b4f5dc1f4045293505b3d0cb43",
+      "name": "BMYT COIN",
+      "symbol": "BMYT",
+      "address": "0xd64d22F76383422D92F3a6510a6fe37964762cB0",
       "chainId": 988207,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ecroxchain/swap-frontend/82e578410d10087f5f42e7751f225e5e3f4d77b2/public/images/tokens/0x7a64822bc0d058b4f5dc1f4045293505b3d0cb43.png"
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xd64d22F76383422D92F3a6510a6fe37964762cB0/logo.png"
+    },
+    {
+      "name": "Trunomic Coin",
+      "symbol": "TRUNOMIC",
+      "address": "0x70E3BcC4D11F724220D4bcbd4454C2648e64f003",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x70E3BcC4D11F724220D4bcbd4454C2648e64f003/logo.png"
+    },
+    {
+      "name": "Astro Mint",
+      "symbol": "AMT",
+      "address": "0x7Cc9a58D0296607c23cF7015F96aA4Cd7E52C666",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x7Cc9a58D0296607c23cF7015F96aA4Cd7E52C666/logo.png"
+    },
+    {
+      "name": "Bitrive Token",
+      "symbol": "BTR",
+      "address": "0x48F883F76D0e07c2C54d3d177Fc2a1E049412bcc",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x48F883F76D0e07c2C54d3d177Fc2a1E049412bcc/logo.png"
+    },
+    {
+      "name": "Bitzona Coin",
+      "symbol": "BZC",
+      "address": "0x70c997BbE4FE189c1896E2Da7DA4D4D529158758",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x70c997BbE4FE189c1896E2Da7DA4D4D529158758/logo.png"
+    },
+    {
+      "name": "Bull Portal",
+      "symbol": "BPT",
+      "address": "0x274C2c634F3B643a2b947333802BDC99E81756F0",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x274C2c634F3B643a2b947333802BDC99E81756F0/logo.png"
+    },
+    {
+      "name": "Cubit Coin",
+      "symbol": "CUB",
+      "address": "0xb4BeF3AcDadB16732401AEa83e741cD8280119fc",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xb4BeF3AcDadB16732401AEa83e741cD8280119fc/logo.png"
+    },
+    {
+      "name": "DAO Mining",
+      "symbol": "DMG",
+      "address": "0xf57b24aD4dc92619a08E392A67d4F7c59e8661E7",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xf57b24aD4dc92619a08E392A67d4F7c59e8661E7/logo.png"
+    },
+    {
+      "name": "Dao Unicorn",
+      "symbol": "DUN",
+      "address": "0xd728F50dCB2f79bC4f7a28249c7B3Aafa8AC2fA7",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xd728F50dCB2f79bC4f7a28249c7B3Aafa8AC2fA7/logo.png"
+    },
+    {
+      "name": "Defiable Coin",
+      "symbol": "DFC",
+      "address": "0xfE8cEC35Ed6635f05B86Da384eECDAB9aE7F801A",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xfE8cEC35Ed6635f05B86Da384eECDAB9aE7F801A/logo.png"
+    },
+    {
+      "name": "DeFi Hex",
+      "symbol": "DFX",
+      "address": "0x56b327531AFD3A6C5B4884e70f3EAc2A41354b09",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x56b327531AFD3A6C5B4884e70f3EAc2A41354b09/logo.png"
+    },
+    {
+      "name": "DeFi Labs",
+      "symbol": "DFL",
+      "address": "0xD5F78b512Afc46934cAaaC75b689B3F6d4AAEBe6",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xD5F78b512Afc46934cAaaC75b689B3F6d4AAEBe6/logo.png"
+    },
+    {
+      "name": "Elbux Coin",
+      "symbol": "ELB",
+      "address": "0xFD97ed77d565838c07eb56449A7dcF93694fe6C4",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xFD97ed77d565838c07eb56449A7dcF93694fe6C4/logo.png"
+    },
+    {
+      "name": "Ether Queen",
+      "symbol": "EQT",
+      "address": "0x40F81E0caCAf4033D94e79e8bD6a099090A2F7b1",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x40F81E0caCAf4033D94e79e8bD6a099090A2F7b1/logo.png"
+    },
+    {
+      "name": "Ethuzi Token",
+      "symbol": "EZI",
+      "address": "0x067956b28a7C2dde7ECbF9f6168A9D859A50e01a",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x067956b28a7C2dde7ECbF9f6168A9D859A50e01a/logo.png"
+    },
+    {
+      "name": "Eureka Token",
+      "symbol": "ERK",
+      "address": "0x60f7a14FEFCf893e91EAFAB22753C3f79Ba5b76A",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x60f7a14FEFCf893e91EAFAB22753C3f79Ba5b76A/logo.png"
+    },
+    {
+      "name": "FXTD COIN",
+      "symbol": "FXTD",
+      "address": "0x1A9577DD81B736ab509837fe6419f09545aB896e",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x1A9577DD81B736ab509837fe6419f09545aB896e/logo.png"
+    },
+    {
+      "name": "HUKOKO",
+      "symbol": "HUKOKO",
+      "address": "0x5550190ABa30fa600A39Fb2F64d37f9B016d0CbB",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x5550190ABa30fa600A39Fb2F64d37f9B016d0CbB/logo.png"
+    },
+    {
+      "name": "Minetive Token",
+      "symbol": "MNT",
+      "address": "0x6125f3cBC609f3759671E97a1b34CAc204cf7435",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x6125f3cBC609f3759671E97a1b34CAc204cf7435/logo.png"
+    },
+    {
+      "name": "Next Luna",
+      "symbol": "NLC",
+      "address": "0xA78fD0Fa80Ce2C11d55d5Ab5AACff4f9c6049857",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xA78fD0Fa80Ce2C11d55d5Ab5AACff4f9c6049857/logo.png"
+    },
+    {
+      "name": "Pawbit Coin",
+      "symbol": "PBC",
+      "address": "0xA2bBe91C59a6eD553C8bA93Ecc1b4a30B2F5d64F",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xA2bBe91C59a6eD553C8bA93Ecc1b4a30B2F5d64F/logo.png"
+    },
+    {
+      "name": "Pezoz Coin",
+      "symbol": "PZC",
+      "address": "0xd633efABA03C8eCBf48857d6b66509772CC9216c",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xd633efABA03C8eCBf48857d6b66509772CC9216c/logo.png"
+    },
+    {
+      "name": "Robotrux",
+      "symbol": "RBT",
+      "address": "0x67E1447aF9636398672c1d493261D46e0362fF13",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x67E1447aF9636398672c1d493261D46e0362fF13/logo.png"
+    },
+    {
+      "name": "Pay Talk",
+      "symbol": "PTK",
+      "address": "0xfa43B66314aCad3e4B1F8B35C6817e38cd58974B",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xfa43B66314aCad3e4B1F8B35C6817e38cd58974B/logo.png"
+    },
+    {
+      "name": "Plex Token",
+      "symbol": "PLX",
+      "address": "0x122b38950101906398acF5520fc8Fa5d3eBfA537",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x122b38950101906398acF5520fc8Fa5d3eBfA537/logo.png"
+    },
+    {
+      "name": "Tera Bull",
+      "symbol": "TBL",
+      "address": "0xD0374EFB9896f5b8CCef6B0F03ECd18Ffa7b1D59",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xD0374EFB9896f5b8CCef6B0F03ECd18Ffa7b1D59/logo.png"
+    },
+    {
+      "name": "Titan Swap",
+      "symbol": "TST",
+      "address": "0x40b5c31DbA0925A7b6757cCf6ade916ebE9Cf621",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x40b5c31DbA0925A7b6757cCf6ade916ebE9Cf621/logo.png"
+    },
+    {
+      "name": "Truly Block",
+      "symbol": "TBT",
+      "address": "0x53dbb5E94e3aF19179DF0C8F555496d936Cf8d14",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x53dbb5E94e3aF19179DF0C8F555496d936Cf8d14/logo.png"
+    },
+    {
+      "name": "Winner Token",
+      "symbol": "WNR",
+      "address": "0x378b35d7CE5665721e262993731e17a40d0B04b8",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x378b35d7CE5665721e262993731e17a40d0B04b8/logo.png"
+    },
+    {
+      "name": "Techno Token",
+      "symbol": "TECHNO",
+      "address": "0xEB7547B44fEc327D2536E028B1144432836aC142",
+      "chainId": 988207,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xEB7547B44fEc327D2536E028B1144432836aC142/logo.png"
     }
   ]
 }
