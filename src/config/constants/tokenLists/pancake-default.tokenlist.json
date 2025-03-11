@@ -51,12 +51,12 @@
       "logoURI": "http://ecroxswap.com/images/tokens/0x6e32F26C48A1155bE3Ae90017320c6B615Bac3c8.png"
     },
     {
-      "name": "BMYT COIN",
-      "symbol": "BMYT",
-      "address": "0xd64d22F76383422D92F3a6510a6fe37964762cB0",
+      "name": "TWKK COIN",
+      "symbol": "TWKK",
+      "address": "0xC0b0F150785530A12B55735b277ca73CAC130e85",
       "chainId": 988207,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xd64d22F76383422D92F3a6510a6fe37964762cB0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0xC0b0F150785530A12B55735b277ca73CAC130e85/logo.png"
     },
     {
       "name": "Trunomic Coin",
